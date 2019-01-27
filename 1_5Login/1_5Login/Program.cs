@@ -38,10 +38,9 @@ namespace _1_5Login
             string username = Console.ReadLine();
             string reversedUsername = "";
             int length = username.Length - 1;
-            while (length >= 0)
+            for (int j = length; j >= 0; j--)
             {
-                reversedUsername = reversedUsername + username[length];
-                length--;
+                reversedUsername = reversedUsername + username[j];
             }
             for (int i = 1; i <= 4; i++)
             {

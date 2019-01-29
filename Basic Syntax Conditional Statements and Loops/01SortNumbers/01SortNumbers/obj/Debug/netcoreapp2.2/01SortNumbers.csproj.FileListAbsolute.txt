@@ -1,0 +1,11 @@
+/home/gigi/Projects/01SortNumbers/01SortNumbers/bin/Debug/netcoreapp2.2/01SortNumbers.deps.json
+/home/gigi/Projects/01SortNumbers/01SortNumbers/bin/Debug/netcoreapp2.2/01SortNumbers.runtimeconfig.json
+/home/gigi/Projects/01SortNumbers/01SortNumbers/bin/Debug/netcoreapp2.2/01SortNumbers.runtimeconfig.dev.json
+/home/gigi/Projects/01SortNumbers/01SortNumbers/bin/Debug/netcoreapp2.2/01SortNumbers.dll
+/home/gigi/Projects/01SortNumbers/01SortNumbers/bin/Debug/netcoreapp2.2/01SortNumbers.pdb
+/home/gigi/Projects/01SortNumbers/01SortNumbers/obj/Debug/netcoreapp2.2/01SortNumbers.csprojAssemblyReference.cache
+/home/gigi/Projects/01SortNumbers/01SortNumbers/obj/Debug/netcoreapp2.2/01SortNumbers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/01SortNumbers/01SortNumbers/obj/Debug/netcoreapp2.2/01SortNumbers.AssemblyInfoInputs.cache
+/home/gigi/Projects/01SortNumbers/01SortNumbers/obj/Debug/netcoreapp2.2/01SortNumbers.AssemblyInfo.cs
+/home/gigi/Projects/01SortNumbers/01SortNumbers/obj/Debug/netcoreapp2.2/01SortNumbers.dll
+/home/gigi/Projects/01SortNumbers/01SortNumbers/obj/Debug/netcoreapp2.2/01SortNumbers.pdb

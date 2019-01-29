@@ -1,0 +1,11 @@
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.deps.json
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.runtimeconfig.json
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.runtimeconfig.dev.json
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.dll
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.pdb
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.csprojAssemblyReference.cache
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.AssemblyInfoInputs.cache
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.AssemblyInfo.cs
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.dll
+/home/gigi/Projects/02EnglishNameOfLastDigit/02EnglishNameOfLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameOfLastDigit.pdb

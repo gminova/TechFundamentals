@@ -1,0 +1,11 @@
+/home/gigi/Projects/04ReverseString/04ReverseString/bin/Debug/netcoreapp2.2/04ReverseString.deps.json
+/home/gigi/Projects/04ReverseString/04ReverseString/bin/Debug/netcoreapp2.2/04ReverseString.runtimeconfig.json
+/home/gigi/Projects/04ReverseString/04ReverseString/bin/Debug/netcoreapp2.2/04ReverseString.runtimeconfig.dev.json
+/home/gigi/Projects/04ReverseString/04ReverseString/bin/Debug/netcoreapp2.2/04ReverseString.dll
+/home/gigi/Projects/04ReverseString/04ReverseString/bin/Debug/netcoreapp2.2/04ReverseString.pdb
+/home/gigi/Projects/04ReverseString/04ReverseString/obj/Debug/netcoreapp2.2/04ReverseString.csprojAssemblyReference.cache
+/home/gigi/Projects/04ReverseString/04ReverseString/obj/Debug/netcoreapp2.2/04ReverseString.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/04ReverseString/04ReverseString/obj/Debug/netcoreapp2.2/04ReverseString.AssemblyInfoInputs.cache
+/home/gigi/Projects/04ReverseString/04ReverseString/obj/Debug/netcoreapp2.2/04ReverseString.AssemblyInfo.cs
+/home/gigi/Projects/04ReverseString/04ReverseString/obj/Debug/netcoreapp2.2/04ReverseString.dll
+/home/gigi/Projects/04ReverseString/04ReverseString/obj/Debug/netcoreapp2.2/04ReverseString.pdb

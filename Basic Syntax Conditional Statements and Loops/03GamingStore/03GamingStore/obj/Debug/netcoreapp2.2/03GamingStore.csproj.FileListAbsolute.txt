@@ -1,0 +1,11 @@
+/home/gigi/Projects/03GamingStore/03GamingStore/obj/Debug/netcoreapp2.2/03GamingStore.csprojAssemblyReference.cache
+/home/gigi/Projects/03GamingStore/03GamingStore/obj/Debug/netcoreapp2.2/03GamingStore.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/03GamingStore/03GamingStore/obj/Debug/netcoreapp2.2/03GamingStore.AssemblyInfoInputs.cache
+/home/gigi/Projects/03GamingStore/03GamingStore/obj/Debug/netcoreapp2.2/03GamingStore.AssemblyInfo.cs
+/home/gigi/Projects/03GamingStore/03GamingStore/bin/Debug/netcoreapp2.2/03GamingStore.deps.json
+/home/gigi/Projects/03GamingStore/03GamingStore/bin/Debug/netcoreapp2.2/03GamingStore.runtimeconfig.json
+/home/gigi/Projects/03GamingStore/03GamingStore/bin/Debug/netcoreapp2.2/03GamingStore.runtimeconfig.dev.json
+/home/gigi/Projects/03GamingStore/03GamingStore/bin/Debug/netcoreapp2.2/03GamingStore.dll
+/home/gigi/Projects/03GamingStore/03GamingStore/bin/Debug/netcoreapp2.2/03GamingStore.pdb
+/home/gigi/Projects/03GamingStore/03GamingStore/obj/Debug/netcoreapp2.2/03GamingStore.dll
+/home/gigi/Projects/03GamingStore/03GamingStore/obj/Debug/netcoreapp2.2/03GamingStore.pdb

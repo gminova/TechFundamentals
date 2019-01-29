@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8D51811F-B454-422B-914F-60998C94B78D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="0_12EvenNumber/Program.cs">
+    <Files>
+      <File FileName="0_12EvenNumber/Program.cs" Line="22" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.0__12EvenNumber FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

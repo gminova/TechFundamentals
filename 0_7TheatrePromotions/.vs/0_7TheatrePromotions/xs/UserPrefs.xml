@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BC9C4364-8B94-4F5F-9496-304BE2D70F95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="0_7TheatrePromotions/Program.cs">
+    <Files>
+      <File FileName="0_7TheatrePromotions/Program.cs" Line="24" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.0__7TheatrePromotions FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

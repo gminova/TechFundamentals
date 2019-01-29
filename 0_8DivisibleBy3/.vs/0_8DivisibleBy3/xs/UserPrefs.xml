@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{423D69A1-629B-4B0F-BEA4-D6560E975676}|Default">
+  <MonoDevelop.Ide.ItemProperties.0__8DivisibleBy3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="0_8DivisibleBy3/Program.cs">
+    <Files>
+      <File FileName="0_8DivisibleBy3/Program.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7E674ABE-859B-4DE1-B74C-E6EC5CBF585D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="0_6ForeignLanguages/Program.cs">
+    <Files>
+      <File FileName="0_6ForeignLanguages/Program.cs" Line="43" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.0__6ForeignLanguages FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

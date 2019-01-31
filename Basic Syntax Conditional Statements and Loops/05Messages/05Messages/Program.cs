@@ -6,10 +6,13 @@
                        |_ghi_|_jkl_|_mno_|
                        |  7  |  8  |  9  |
                        |_pqrs|_tuv_|_wxyz|
-                       |     |  0  |     |
+                       |     |  1  |     |
                        |_____|space|_____|
 
 Following the guide, 2 becomes “a”, 22 becomes “b” and so on.
+On the first line you will input the number of characters which will represent the
+length of the text. Then you will insert each number that represents the letters
+of your text message.
 ________________________________________________________________________________
 INPUT                                OUTPUT
 5                                    hello

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gigi/Projects/05Messages/05Messages/05Messages.csproj",
+      "projectUniqueName": "/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/05Messages.csproj",
       "projectName": "05Messages",
-      "projectPath": "/home/gigi/Projects/05Messages/05Messages/05Messages.csproj",
+      "projectPath": "/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/05Messages.csproj",
       "packagesPath": "/home/gigi/.nuget/packages/",
-      "outputPath": "/home/gigi/Projects/05Messages/05Messages/obj",
+      "outputPath": "/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

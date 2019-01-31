@@ -1,0 +1,11 @@
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameLastDigit.csprojAssemblyReference.cache
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameLastDigit.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameLastDigit.AssemblyInfoInputs.cache
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameLastDigit.AssemblyInfo.cs
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameLastDigit.deps.json
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameLastDigit.runtimeconfig.json
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameLastDigit.runtimeconfig.dev.json
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameLastDigit.dll
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/bin/Debug/netcoreapp2.2/02EnglishNameLastDigit.pdb
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameLastDigit.dll
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/02EnglishNameLastDigit/02EnglishNameLastDigit/obj/Debug/netcoreapp2.2/02EnglishNameLastDigit.pdb

@@ -1,0 +1,11 @@
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/bin/Debug/netcoreapp2.2/05Messages.deps.json
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/bin/Debug/netcoreapp2.2/05Messages.runtimeconfig.json
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/bin/Debug/netcoreapp2.2/05Messages.runtimeconfig.dev.json
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/bin/Debug/netcoreapp2.2/05Messages.dll
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/bin/Debug/netcoreapp2.2/05Messages.pdb
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/obj/Debug/netcoreapp2.2/05Messages.csprojAssemblyReference.cache
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/obj/Debug/netcoreapp2.2/05Messages.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/obj/Debug/netcoreapp2.2/05Messages.AssemblyInfoInputs.cache
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/obj/Debug/netcoreapp2.2/05Messages.AssemblyInfo.cs
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/obj/Debug/netcoreapp2.2/05Messages.dll
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/05Messages/05Messages/obj/Debug/netcoreapp2.2/05Messages.pdb

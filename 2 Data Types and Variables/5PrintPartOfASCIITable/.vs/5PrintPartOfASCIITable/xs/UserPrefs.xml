@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EC2D0B68-AB6C-4B78-BDA1-5B5205DF0007}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="5PrintPartOfASCIITable/Program.cs">
+    <Files>
+      <File FileName="5PrintPartOfASCIITable/Program.cs" Line="39" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.5PrintPartOfASCIITable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

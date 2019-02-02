@@ -1,0 +1,11 @@
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/bin/Debug/netcoreapp2.2/5PrintPartOfASCIITable.deps.json
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/bin/Debug/netcoreapp2.2/5PrintPartOfASCIITable.runtimeconfig.json
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/bin/Debug/netcoreapp2.2/5PrintPartOfASCIITable.runtimeconfig.dev.json
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/bin/Debug/netcoreapp2.2/5PrintPartOfASCIITable.dll
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/bin/Debug/netcoreapp2.2/5PrintPartOfASCIITable.pdb
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/obj/Debug/netcoreapp2.2/5PrintPartOfASCIITable.csprojAssemblyReference.cache
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/obj/Debug/netcoreapp2.2/5PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/obj/Debug/netcoreapp2.2/5PrintPartOfASCIITable.AssemblyInfoInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/obj/Debug/netcoreapp2.2/5PrintPartOfASCIITable.AssemblyInfo.cs
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/obj/Debug/netcoreapp2.2/5PrintPartOfASCIITable.dll
+/home/gigi/techFund/2 Data Types and Variables/5PrintPartOfASCIITable/5PrintPartOfASCIITable/obj/Debug/netcoreapp2.2/5PrintPartOfASCIITable.pdb

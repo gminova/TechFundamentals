@@ -1,0 +1,11 @@
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/bin/Debug/netcoreapp2.2/6TriplesOfLatingLetters.deps.json
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/bin/Debug/netcoreapp2.2/6TriplesOfLatingLetters.runtimeconfig.json
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/bin/Debug/netcoreapp2.2/6TriplesOfLatingLetters.runtimeconfig.dev.json
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/bin/Debug/netcoreapp2.2/6TriplesOfLatingLetters.dll
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/bin/Debug/netcoreapp2.2/6TriplesOfLatingLetters.pdb
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/obj/Debug/netcoreapp2.2/6TriplesOfLatingLetters.csprojAssemblyReference.cache
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/obj/Debug/netcoreapp2.2/6TriplesOfLatingLetters.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/obj/Debug/netcoreapp2.2/6TriplesOfLatingLetters.AssemblyInfoInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/obj/Debug/netcoreapp2.2/6TriplesOfLatingLetters.AssemblyInfo.cs
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/obj/Debug/netcoreapp2.2/6TriplesOfLatingLetters.dll
+/home/gigi/techFund/2 Data Types and Variables/6TriplesOfLatingLetters/6TriplesOfLatingLetters/obj/Debug/netcoreapp2.2/6TriplesOfLatingLetters.pdb

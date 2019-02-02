@@ -1,0 +1,11 @@
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/bin/Debug/netcoreapp2.2/1IntegerOperations.deps.json
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/bin/Debug/netcoreapp2.2/1IntegerOperations.runtimeconfig.json
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/bin/Debug/netcoreapp2.2/1IntegerOperations.runtimeconfig.dev.json
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/bin/Debug/netcoreapp2.2/1IntegerOperations.dll
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/bin/Debug/netcoreapp2.2/1IntegerOperations.pdb
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/obj/Debug/netcoreapp2.2/1IntegerOperations.csprojAssemblyReference.cache
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/obj/Debug/netcoreapp2.2/1IntegerOperations.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/obj/Debug/netcoreapp2.2/1IntegerOperations.AssemblyInfoInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/obj/Debug/netcoreapp2.2/1IntegerOperations.AssemblyInfo.cs
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/obj/Debug/netcoreapp2.2/1IntegerOperations.dll
+/home/gigi/techFund/2 Data Types and Variables/1IntegerOperations/1IntegerOperations/obj/Debug/netcoreapp2.2/1IntegerOperations.pdb

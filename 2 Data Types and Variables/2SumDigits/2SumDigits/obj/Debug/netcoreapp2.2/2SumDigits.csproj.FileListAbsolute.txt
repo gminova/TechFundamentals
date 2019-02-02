@@ -1,0 +1,11 @@
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/bin/Debug/netcoreapp2.2/2SumDigits.deps.json
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/bin/Debug/netcoreapp2.2/2SumDigits.runtimeconfig.json
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/bin/Debug/netcoreapp2.2/2SumDigits.runtimeconfig.dev.json
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/bin/Debug/netcoreapp2.2/2SumDigits.dll
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/bin/Debug/netcoreapp2.2/2SumDigits.pdb
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/obj/Debug/netcoreapp2.2/2SumDigits.csprojAssemblyReference.cache
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/obj/Debug/netcoreapp2.2/2SumDigits.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/obj/Debug/netcoreapp2.2/2SumDigits.AssemblyInfoInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/obj/Debug/netcoreapp2.2/2SumDigits.AssemblyInfo.cs
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/obj/Debug/netcoreapp2.2/2SumDigits.dll
+/home/gigi/techFund/2 Data Types and Variables/2SumDigits/2SumDigits/obj/Debug/netcoreapp2.2/2SumDigits.pdb

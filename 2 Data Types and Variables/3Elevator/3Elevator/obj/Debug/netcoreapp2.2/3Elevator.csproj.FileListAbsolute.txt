@@ -1,0 +1,11 @@
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/bin/Debug/netcoreapp2.2/3Elevator.deps.json
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/bin/Debug/netcoreapp2.2/3Elevator.runtimeconfig.json
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/bin/Debug/netcoreapp2.2/3Elevator.runtimeconfig.dev.json
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/bin/Debug/netcoreapp2.2/3Elevator.dll
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/bin/Debug/netcoreapp2.2/3Elevator.pdb
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/obj/Debug/netcoreapp2.2/3Elevator.csprojAssemblyReference.cache
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/obj/Debug/netcoreapp2.2/3Elevator.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/obj/Debug/netcoreapp2.2/3Elevator.AssemblyInfoInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/obj/Debug/netcoreapp2.2/3Elevator.AssemblyInfo.cs
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/obj/Debug/netcoreapp2.2/3Elevator.dll
+/home/gigi/techFund/2 Data Types and Variables/3Elevator/3Elevator/obj/Debug/netcoreapp2.2/3Elevator.pdb

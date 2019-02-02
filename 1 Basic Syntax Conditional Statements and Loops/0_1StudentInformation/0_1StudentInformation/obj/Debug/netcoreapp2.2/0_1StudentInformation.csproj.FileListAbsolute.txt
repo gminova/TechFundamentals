@@ -1,0 +1,11 @@
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/bin/Debug/netcoreapp2.2/0_1StudentInformation.deps.json
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/bin/Debug/netcoreapp2.2/0_1StudentInformation.runtimeconfig.json
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/bin/Debug/netcoreapp2.2/0_1StudentInformation.runtimeconfig.dev.json
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/bin/Debug/netcoreapp2.2/0_1StudentInformation.dll
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/bin/Debug/netcoreapp2.2/0_1StudentInformation.pdb
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/obj/Debug/netcoreapp2.2/0_1StudentInformation.csprojAssemblyReference.cache
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/obj/Debug/netcoreapp2.2/0_1StudentInformation.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/obj/Debug/netcoreapp2.2/0_1StudentInformation.AssemblyInfoInputs.cache
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/obj/Debug/netcoreapp2.2/0_1StudentInformation.AssemblyInfo.cs
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/obj/Debug/netcoreapp2.2/0_1StudentInformation.dll
+/home/gigi/techFund/Basic Syntax Conditional Statements and Loops/0_1StudentInformation/0_1StudentInformation/obj/Debug/netcoreapp2.2/0_1StudentInformation.pdb

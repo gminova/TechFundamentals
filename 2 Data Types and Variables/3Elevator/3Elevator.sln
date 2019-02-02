@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Elevator", "3Elevator\3Elevator.csproj", "{8D2731CB-188B-45FB-9C6B-88D5A9BDE5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2731CB-188B-45FB-9C6B-88D5A9BDE5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2731CB-188B-45FB-9C6B-88D5A9BDE5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2731CB-188B-45FB-9C6B-88D5A9BDE5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2731CB-188B-45FB-9C6B-88D5A9BDE5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

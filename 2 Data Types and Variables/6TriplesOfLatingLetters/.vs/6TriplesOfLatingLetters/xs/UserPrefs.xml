@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{566EFB24-2DB0-4DE6-BDE8-568299ECF123}|Default">
+  <MonoDevelop.Ide.ItemProperties.6TriplesOfLatingLetters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="6TriplesOfLatingLetters/Program.cs">
+    <Files>
+      <File FileName="6TriplesOfLatingLetters/Program.cs" Line="50" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

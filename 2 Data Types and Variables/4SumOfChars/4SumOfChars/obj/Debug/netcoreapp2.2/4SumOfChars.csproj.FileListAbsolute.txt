@@ -1,0 +1,11 @@
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/obj/Debug/netcoreapp2.2/4SumOfChars.csprojAssemblyReference.cache
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/obj/Debug/netcoreapp2.2/4SumOfChars.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/obj/Debug/netcoreapp2.2/4SumOfChars.AssemblyInfoInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/obj/Debug/netcoreapp2.2/4SumOfChars.AssemblyInfo.cs
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/bin/Debug/netcoreapp2.2/4SumOfChars.deps.json
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/bin/Debug/netcoreapp2.2/4SumOfChars.runtimeconfig.json
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/bin/Debug/netcoreapp2.2/4SumOfChars.runtimeconfig.dev.json
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/bin/Debug/netcoreapp2.2/4SumOfChars.dll
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/bin/Debug/netcoreapp2.2/4SumOfChars.pdb
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/obj/Debug/netcoreapp2.2/4SumOfChars.dll
+/home/gigi/techFund/2 Data Types and Variables/4SumOfChars/4SumOfChars/obj/Debug/netcoreapp2.2/4SumOfChars.pdb

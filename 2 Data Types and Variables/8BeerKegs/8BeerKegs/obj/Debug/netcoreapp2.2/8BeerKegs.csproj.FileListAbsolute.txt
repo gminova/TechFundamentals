@@ -1,0 +1,11 @@
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/bin/Debug/netcoreapp2.2/8BeerKegs.deps.json
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/bin/Debug/netcoreapp2.2/8BeerKegs.runtimeconfig.json
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/bin/Debug/netcoreapp2.2/8BeerKegs.runtimeconfig.dev.json
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/bin/Debug/netcoreapp2.2/8BeerKegs.dll
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/bin/Debug/netcoreapp2.2/8BeerKegs.pdb
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/obj/Debug/netcoreapp2.2/8BeerKegs.csprojAssemblyReference.cache
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/obj/Debug/netcoreapp2.2/8BeerKegs.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/obj/Debug/netcoreapp2.2/8BeerKegs.AssemblyInfoInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/obj/Debug/netcoreapp2.2/8BeerKegs.AssemblyInfo.cs
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/obj/Debug/netcoreapp2.2/8BeerKegs.dll
+/home/gigi/techFund/2 Data Types and Variables/8BeerKegs/8BeerKegs/obj/Debug/netcoreapp2.2/8BeerKegs.pdb

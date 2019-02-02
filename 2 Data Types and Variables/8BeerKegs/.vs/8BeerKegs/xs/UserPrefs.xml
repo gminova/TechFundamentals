@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C0F49368-C9A2-46E3-9F8C-867BF0E5DAC2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="8BeerKegs/Program.cs">
+    <Files>
+      <File FileName="8BeerKegs/Program.cs" Line="57" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.8BeerKegs PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

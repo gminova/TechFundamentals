@@ -1,0 +1,11 @@
+/home/gigi/Projects/07ConcatNames/07ConcatNames/bin/Debug/netcoreapp2.2/07ConcatNames.deps.json
+/home/gigi/Projects/07ConcatNames/07ConcatNames/bin/Debug/netcoreapp2.2/07ConcatNames.runtimeconfig.json
+/home/gigi/Projects/07ConcatNames/07ConcatNames/bin/Debug/netcoreapp2.2/07ConcatNames.runtimeconfig.dev.json
+/home/gigi/Projects/07ConcatNames/07ConcatNames/bin/Debug/netcoreapp2.2/07ConcatNames.dll
+/home/gigi/Projects/07ConcatNames/07ConcatNames/bin/Debug/netcoreapp2.2/07ConcatNames.pdb
+/home/gigi/Projects/07ConcatNames/07ConcatNames/obj/Debug/netcoreapp2.2/07ConcatNames.csprojAssemblyReference.cache
+/home/gigi/Projects/07ConcatNames/07ConcatNames/obj/Debug/netcoreapp2.2/07ConcatNames.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/07ConcatNames/07ConcatNames/obj/Debug/netcoreapp2.2/07ConcatNames.AssemblyInfoInputs.cache
+/home/gigi/Projects/07ConcatNames/07ConcatNames/obj/Debug/netcoreapp2.2/07ConcatNames.AssemblyInfo.cs
+/home/gigi/Projects/07ConcatNames/07ConcatNames/obj/Debug/netcoreapp2.2/07ConcatNames.dll
+/home/gigi/Projects/07ConcatNames/07ConcatNames/obj/Debug/netcoreapp2.2/07ConcatNames.pdb

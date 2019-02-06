@@ -1,0 +1,11 @@
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/bin/Debug/netcoreapp2.2/05SpecialNumbers.deps.json
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/bin/Debug/netcoreapp2.2/05SpecialNumbers.runtimeconfig.json
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/bin/Debug/netcoreapp2.2/05SpecialNumbers.runtimeconfig.dev.json
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/bin/Debug/netcoreapp2.2/05SpecialNumbers.dll
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/bin/Debug/netcoreapp2.2/05SpecialNumbers.pdb
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/obj/Debug/netcoreapp2.2/05SpecialNumbers.csprojAssemblyReference.cache
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/obj/Debug/netcoreapp2.2/05SpecialNumbers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/obj/Debug/netcoreapp2.2/05SpecialNumbers.AssemblyInfoInputs.cache
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/obj/Debug/netcoreapp2.2/05SpecialNumbers.AssemblyInfo.cs
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/obj/Debug/netcoreapp2.2/05SpecialNumbers.dll
+/home/gigi/Projects/05SpecialNumbers/05SpecialNumbers/obj/Debug/netcoreapp2.2/05SpecialNumbers.pdb

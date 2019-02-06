@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A04ED0B5-DC7E-4488-A119-41D66E2E23A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="012RefactorSpecialNumbers/Program.cs">
+    <Files>
+      <File FileName="012RefactorSpecialNumbers/Program.cs" Line="45" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.012RefactorSpecialNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

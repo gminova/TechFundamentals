@@ -1,0 +1,11 @@
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.deps.json
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.runtimeconfig.json
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.runtimeconfig.dev.json
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.dll
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.pdb
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.csprojAssemblyReference.cache
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.AssemblyInfoInputs.cache
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.AssemblyInfo.cs
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.dll
+/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.pdb

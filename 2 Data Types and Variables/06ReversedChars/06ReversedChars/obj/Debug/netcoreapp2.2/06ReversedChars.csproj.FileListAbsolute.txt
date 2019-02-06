@@ -1,0 +1,11 @@
+/home/gigi/Projects/06ReversedChars/06ReversedChars/bin/Debug/netcoreapp2.2/06ReversedChars.deps.json
+/home/gigi/Projects/06ReversedChars/06ReversedChars/bin/Debug/netcoreapp2.2/06ReversedChars.runtimeconfig.json
+/home/gigi/Projects/06ReversedChars/06ReversedChars/bin/Debug/netcoreapp2.2/06ReversedChars.runtimeconfig.dev.json
+/home/gigi/Projects/06ReversedChars/06ReversedChars/bin/Debug/netcoreapp2.2/06ReversedChars.dll
+/home/gigi/Projects/06ReversedChars/06ReversedChars/bin/Debug/netcoreapp2.2/06ReversedChars.pdb
+/home/gigi/Projects/06ReversedChars/06ReversedChars/obj/Debug/netcoreapp2.2/06ReversedChars.csprojAssemblyReference.cache
+/home/gigi/Projects/06ReversedChars/06ReversedChars/obj/Debug/netcoreapp2.2/06ReversedChars.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/06ReversedChars/06ReversedChars/obj/Debug/netcoreapp2.2/06ReversedChars.AssemblyInfoInputs.cache
+/home/gigi/Projects/06ReversedChars/06ReversedChars/obj/Debug/netcoreapp2.2/06ReversedChars.AssemblyInfo.cs
+/home/gigi/Projects/06ReversedChars/06ReversedChars/obj/Debug/netcoreapp2.2/06ReversedChars.dll
+/home/gigi/Projects/06ReversedChars/06ReversedChars/obj/Debug/netcoreapp2.2/06ReversedChars.pdb

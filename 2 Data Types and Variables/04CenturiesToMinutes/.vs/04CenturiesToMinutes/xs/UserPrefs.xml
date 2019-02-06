@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B48CE91D-B7A4-4C0D-BB24-9DB24CA0EC44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="04CenturiesToMinutes/Program.cs">
+    <Files>
+      <File FileName="04CenturiesToMinutes/Program.cs" Line="29" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.04CenturiesToMinutes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

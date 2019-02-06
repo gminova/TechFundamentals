@@ -1,0 +1,11 @@
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/bin/Debug/netcoreapp2.2/02PoundsToDollars.deps.json
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/bin/Debug/netcoreapp2.2/02PoundsToDollars.runtimeconfig.json
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/bin/Debug/netcoreapp2.2/02PoundsToDollars.runtimeconfig.dev.json
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/bin/Debug/netcoreapp2.2/02PoundsToDollars.dll
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/bin/Debug/netcoreapp2.2/02PoundsToDollars.pdb
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/obj/Debug/netcoreapp2.2/02PoundsToDollars.csprojAssemblyReference.cache
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/obj/Debug/netcoreapp2.2/02PoundsToDollars.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/obj/Debug/netcoreapp2.2/02PoundsToDollars.AssemblyInfoInputs.cache
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/obj/Debug/netcoreapp2.2/02PoundsToDollars.AssemblyInfo.cs
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/obj/Debug/netcoreapp2.2/02PoundsToDollars.dll
+/home/gigi/Projects/02PoundsToDollars/02PoundsToDollars/obj/Debug/netcoreapp2.2/02PoundsToDollars.pdb

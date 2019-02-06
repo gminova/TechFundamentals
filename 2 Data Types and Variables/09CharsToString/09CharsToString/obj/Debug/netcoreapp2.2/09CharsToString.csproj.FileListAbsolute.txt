@@ -1,0 +1,11 @@
+/home/gigi/Projects/09CharsToString/09CharsToString/bin/Debug/netcoreapp2.2/09CharsToString.deps.json
+/home/gigi/Projects/09CharsToString/09CharsToString/bin/Debug/netcoreapp2.2/09CharsToString.runtimeconfig.json
+/home/gigi/Projects/09CharsToString/09CharsToString/bin/Debug/netcoreapp2.2/09CharsToString.runtimeconfig.dev.json
+/home/gigi/Projects/09CharsToString/09CharsToString/bin/Debug/netcoreapp2.2/09CharsToString.dll
+/home/gigi/Projects/09CharsToString/09CharsToString/bin/Debug/netcoreapp2.2/09CharsToString.pdb
+/home/gigi/Projects/09CharsToString/09CharsToString/obj/Debug/netcoreapp2.2/09CharsToString.csprojAssemblyReference.cache
+/home/gigi/Projects/09CharsToString/09CharsToString/obj/Debug/netcoreapp2.2/09CharsToString.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/09CharsToString/09CharsToString/obj/Debug/netcoreapp2.2/09CharsToString.AssemblyInfoInputs.cache
+/home/gigi/Projects/09CharsToString/09CharsToString/obj/Debug/netcoreapp2.2/09CharsToString.AssemblyInfo.cs
+/home/gigi/Projects/09CharsToString/09CharsToString/obj/Debug/netcoreapp2.2/09CharsToString.dll
+/home/gigi/Projects/09CharsToString/09CharsToString/obj/Debug/netcoreapp2.2/09CharsToString.pdb

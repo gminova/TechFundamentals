@@ -1,0 +1,11 @@
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/bin/Debug/netcoreapp2.2/3_FloatingEquality.deps.json
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/bin/Debug/netcoreapp2.2/3_FloatingEquality.runtimeconfig.json
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/bin/Debug/netcoreapp2.2/3_FloatingEquality.runtimeconfig.dev.json
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/bin/Debug/netcoreapp2.2/3_FloatingEquality.dll
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/bin/Debug/netcoreapp2.2/3_FloatingEquality.pdb
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/obj/Debug/netcoreapp2.2/3_FloatingEquality.csprojAssemblyReference.cache
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/obj/Debug/netcoreapp2.2/3_FloatingEquality.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/obj/Debug/netcoreapp2.2/3_FloatingEquality.AssemblyInfoInputs.cache
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/obj/Debug/netcoreapp2.2/3_FloatingEquality.AssemblyInfo.cs
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/obj/Debug/netcoreapp2.2/3_FloatingEquality.dll
+/home/gigi/Projects/3_FloatingEquality/3_FloatingEquality/obj/Debug/netcoreapp2.2/3_FloatingEquality.pdb

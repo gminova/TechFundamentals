@@ -1,0 +1,11 @@
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/obj/Debug/netcoreapp2.2/01MetersToKilometers.csprojAssemblyReference.cache
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/obj/Debug/netcoreapp2.2/01MetersToKilometers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/obj/Debug/netcoreapp2.2/01MetersToKilometers.AssemblyInfoInputs.cache
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/obj/Debug/netcoreapp2.2/01MetersToKilometers.AssemblyInfo.cs
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/bin/Debug/netcoreapp2.2/01MetersToKilometers.deps.json
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/bin/Debug/netcoreapp2.2/01MetersToKilometers.runtimeconfig.json
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/bin/Debug/netcoreapp2.2/01MetersToKilometers.runtimeconfig.dev.json
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/bin/Debug/netcoreapp2.2/01MetersToKilometers.dll
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/bin/Debug/netcoreapp2.2/01MetersToKilometers.pdb
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/obj/Debug/netcoreapp2.2/01MetersToKilometers.dll
+/home/gigi/Projects/01MetersToKilometers/01MetersToKilometers/obj/Debug/netcoreapp2.2/01MetersToKilometers.pdb

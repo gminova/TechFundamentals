@@ -1,0 +1,11 @@
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/bin/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.deps.json
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/bin/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.runtimeconfig.json
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/bin/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.runtimeconfig.dev.json
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/bin/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.dll
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/bin/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.pdb
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/obj/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.csprojAssemblyReference.cache
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/obj/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/obj/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/obj/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.AssemblyInfo.cs
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/obj/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.dll
+/home/gigi/Projects/03ExactSumOfRealNumbers/03ExactSumOfRealNumbers/obj/Debug/netcoreapp2.2/03ExactSumOfRealNumbers.pdb

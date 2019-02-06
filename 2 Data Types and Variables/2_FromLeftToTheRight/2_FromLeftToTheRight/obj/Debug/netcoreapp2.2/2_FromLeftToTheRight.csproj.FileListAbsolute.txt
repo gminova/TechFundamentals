@@ -1,0 +1,11 @@
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/bin/Debug/netcoreapp2.2/2_FromLeftToTheRight.deps.json
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/bin/Debug/netcoreapp2.2/2_FromLeftToTheRight.runtimeconfig.json
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/bin/Debug/netcoreapp2.2/2_FromLeftToTheRight.runtimeconfig.dev.json
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/bin/Debug/netcoreapp2.2/2_FromLeftToTheRight.dll
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/bin/Debug/netcoreapp2.2/2_FromLeftToTheRight.pdb
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/obj/Debug/netcoreapp2.2/2_FromLeftToTheRight.csprojAssemblyReference.cache
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/obj/Debug/netcoreapp2.2/2_FromLeftToTheRight.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/obj/Debug/netcoreapp2.2/2_FromLeftToTheRight.AssemblyInfoInputs.cache
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/obj/Debug/netcoreapp2.2/2_FromLeftToTheRight.AssemblyInfo.cs
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/obj/Debug/netcoreapp2.2/2_FromLeftToTheRight.dll
+/home/gigi/Projects/2_FromLeftToTheRight/2_FromLeftToTheRight/obj/Debug/netcoreapp2.2/2_FromLeftToTheRight.pdb

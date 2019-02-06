@@ -1,0 +1,11 @@
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/bin/Debug/netcoreapp2.2/5DecryptingMessage.deps.json
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/bin/Debug/netcoreapp2.2/5DecryptingMessage.runtimeconfig.json
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/bin/Debug/netcoreapp2.2/5DecryptingMessage.runtimeconfig.dev.json
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/bin/Debug/netcoreapp2.2/5DecryptingMessage.dll
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/bin/Debug/netcoreapp2.2/5DecryptingMessage.pdb
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/obj/Debug/netcoreapp2.2/5DecryptingMessage.csprojAssemblyReference.cache
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/obj/Debug/netcoreapp2.2/5DecryptingMessage.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/obj/Debug/netcoreapp2.2/5DecryptingMessage.AssemblyInfoInputs.cache
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/obj/Debug/netcoreapp2.2/5DecryptingMessage.AssemblyInfo.cs
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/obj/Debug/netcoreapp2.2/5DecryptingMessage.dll
+/home/gigi/Projects/5DecryptingMessage/5DecryptingMessage/obj/Debug/netcoreapp2.2/5DecryptingMessage.pdb

@@ -1,0 +1,11 @@
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/bin/Debug/netcoreapp2.2/04CenturiesToMinutes.deps.json
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/bin/Debug/netcoreapp2.2/04CenturiesToMinutes.runtimeconfig.json
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/bin/Debug/netcoreapp2.2/04CenturiesToMinutes.runtimeconfig.dev.json
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/bin/Debug/netcoreapp2.2/04CenturiesToMinutes.dll
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/bin/Debug/netcoreapp2.2/04CenturiesToMinutes.pdb
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/obj/Debug/netcoreapp2.2/04CenturiesToMinutes.csprojAssemblyReference.cache
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/obj/Debug/netcoreapp2.2/04CenturiesToMinutes.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/obj/Debug/netcoreapp2.2/04CenturiesToMinutes.AssemblyInfoInputs.cache
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/obj/Debug/netcoreapp2.2/04CenturiesToMinutes.AssemblyInfo.cs
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/obj/Debug/netcoreapp2.2/04CenturiesToMinutes.dll
+/home/gigi/Projects/04CenturiesToMinutes/04CenturiesToMinutes/obj/Debug/netcoreapp2.2/04CenturiesToMinutes.pdb

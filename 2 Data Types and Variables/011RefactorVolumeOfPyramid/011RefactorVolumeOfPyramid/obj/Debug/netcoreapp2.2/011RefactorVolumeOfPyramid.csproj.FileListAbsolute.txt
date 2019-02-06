@@ -1,0 +1,11 @@
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/bin/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.deps.json
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/bin/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.runtimeconfig.json
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/bin/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.runtimeconfig.dev.json
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/bin/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.dll
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/bin/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.pdb
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/obj/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.csprojAssemblyReference.cache
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/obj/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/obj/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/obj/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.AssemblyInfo.cs
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/obj/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.dll
+/home/gigi/Projects/011RefactorVolumeOfPyramid/011RefactorVolumeOfPyramid/obj/Debug/netcoreapp2.2/011RefactorVolumeOfPyramid.pdb

@@ -1,0 +1,11 @@
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/bin/Debug/netcoreapp2.2/012RefactorSpecialNumbers.deps.json
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/bin/Debug/netcoreapp2.2/012RefactorSpecialNumbers.runtimeconfig.json
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/bin/Debug/netcoreapp2.2/012RefactorSpecialNumbers.runtimeconfig.dev.json
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/bin/Debug/netcoreapp2.2/012RefactorSpecialNumbers.dll
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/bin/Debug/netcoreapp2.2/012RefactorSpecialNumbers.pdb
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/obj/Debug/netcoreapp2.2/012RefactorSpecialNumbers.csprojAssemblyReference.cache
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/obj/Debug/netcoreapp2.2/012RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/obj/Debug/netcoreapp2.2/012RefactorSpecialNumbers.AssemblyInfoInputs.cache
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/obj/Debug/netcoreapp2.2/012RefactorSpecialNumbers.AssemblyInfo.cs
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/obj/Debug/netcoreapp2.2/012RefactorSpecialNumbers.dll
+/home/gigi/Projects/012RefactorSpecialNumbers/012RefactorSpecialNumbers/obj/Debug/netcoreapp2.2/012RefactorSpecialNumbers.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1E04035B-DFE6-405D-8699-A572CB662264}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="01MetersToKilometers/Program.cs">
+    <Files>
+      <File FileName="01MetersToKilometers/Program.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01MetersToKilometers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/bin/Debug/netcoreapp2.2/4RefactoringPrimeChecker.deps.json
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/bin/Debug/netcoreapp2.2/4RefactoringPrimeChecker.runtimeconfig.json
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/bin/Debug/netcoreapp2.2/4RefactoringPrimeChecker.runtimeconfig.dev.json
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/bin/Debug/netcoreapp2.2/4RefactoringPrimeChecker.dll
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/bin/Debug/netcoreapp2.2/4RefactoringPrimeChecker.pdb
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/obj/Debug/netcoreapp2.2/4RefactoringPrimeChecker.csprojAssemblyReference.cache
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/obj/Debug/netcoreapp2.2/4RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/obj/Debug/netcoreapp2.2/4RefactoringPrimeChecker.AssemblyInfoInputs.cache
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/obj/Debug/netcoreapp2.2/4RefactoringPrimeChecker.AssemblyInfo.cs
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/obj/Debug/netcoreapp2.2/4RefactoringPrimeChecker.dll
+/home/gigi/Projects/4RefactoringPrimeChecker/4RefactoringPrimeChecker/obj/Debug/netcoreapp2.2/4RefactoringPrimeChecker.pdb

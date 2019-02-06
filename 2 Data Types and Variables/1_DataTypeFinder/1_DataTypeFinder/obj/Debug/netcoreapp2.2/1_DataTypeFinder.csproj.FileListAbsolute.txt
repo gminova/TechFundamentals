@@ -1,0 +1,11 @@
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/bin/Debug/netcoreapp2.2/1_DataTypeFinder.deps.json
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/bin/Debug/netcoreapp2.2/1_DataTypeFinder.runtimeconfig.json
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/bin/Debug/netcoreapp2.2/1_DataTypeFinder.runtimeconfig.dev.json
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/bin/Debug/netcoreapp2.2/1_DataTypeFinder.dll
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/bin/Debug/netcoreapp2.2/1_DataTypeFinder.pdb
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/obj/Debug/netcoreapp2.2/1_DataTypeFinder.csprojAssemblyReference.cache
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/obj/Debug/netcoreapp2.2/1_DataTypeFinder.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/obj/Debug/netcoreapp2.2/1_DataTypeFinder.AssemblyInfoInputs.cache
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/obj/Debug/netcoreapp2.2/1_DataTypeFinder.AssemblyInfo.cs
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/obj/Debug/netcoreapp2.2/1_DataTypeFinder.dll
+/home/gigi/Projects/1_DataTypeFinder/1_DataTypeFinder/obj/Debug/netcoreapp2.2/1_DataTypeFinder.pdb

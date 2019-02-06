@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/6BalancedBrackets.csproj",
+      "projectUniqueName": "/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/6BalancedBrackets.csproj",
       "projectName": "6BalancedBrackets",
-      "projectPath": "/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/6BalancedBrackets.csproj",
+      "projectPath": "/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/6BalancedBrackets.csproj",
       "packagesPath": "/home/gigi/.nuget/packages/",
-      "outputPath": "/home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj",
+      "outputPath": "/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

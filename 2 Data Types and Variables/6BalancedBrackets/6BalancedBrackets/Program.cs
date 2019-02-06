@@ -45,8 +45,7 @@ namespace _6BalancedBrackets
         static void Main(string[] args)
         {
             int max = int.Parse(Console.ReadLine());
-            int countOpen = 0;
-            int countClosed = 0;
+            int bracketCount = 0;
             bool lastWasOpen = false;
             for (int i = 0; i < max; i++)
             {
@@ -54,7 +53,7 @@ namespace _6BalancedBrackets
 
                 if (input == "(")
                 {
-                    countOpen++;
+                    bracketCount++;
                     if (!lastWasOpen)
                     {
                         lastWasOpen = true;
@@ -67,11 +66,11 @@ namespace _6BalancedBrackets
                 }
                 if (input == ")")
                 {
-                    countClosed++;
+                    bracketCount--;
                     lastWasOpen = false;
                 }
             }
-            if (countOpen == countClosed && !lastWasOpen)
+            if (bracketCount == 0 && !lastWasOpen)
             {
                 Console.WriteLine("BALANCED");
             }

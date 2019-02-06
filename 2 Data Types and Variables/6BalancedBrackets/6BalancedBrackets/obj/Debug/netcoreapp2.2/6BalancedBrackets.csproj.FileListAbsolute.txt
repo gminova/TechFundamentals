@@ -9,3 +9,14 @@
 /home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.AssemblyInfo.cs
 /home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.dll
 /home/gigi/Projects/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.pdb
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.deps.json
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.runtimeconfig.json
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.runtimeconfig.dev.json
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.dll
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/bin/Debug/netcoreapp2.2/6BalancedBrackets.pdb
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.csprojAssemblyReference.cache
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.csproj.CoreCompileInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.AssemblyInfoInputs.cache
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.AssemblyInfo.cs
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.dll
+/home/gigi/techFund/2 Data Types and Variables/6BalancedBrackets/6BalancedBrackets/obj/Debug/netcoreapp2.2/6BalancedBrackets.pdb

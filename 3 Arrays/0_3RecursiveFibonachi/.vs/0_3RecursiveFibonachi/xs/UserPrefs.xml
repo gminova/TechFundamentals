@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D02C763A-F32F-42CC-9900-ABBDB9DFF31E}|Default">
+  <MonoDevelop.Ide.ItemProperties.0__3RecursiveFibonachi FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="0_3RecursiveFibonachi/Program.cs">
+    <Files>
+      <File FileName="0_3RecursiveFibonachi/Program.cs" Line="78" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

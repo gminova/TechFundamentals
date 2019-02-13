@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{89017740-2A84-4599-BAE5-9C9105E2414A}|Default">
+  <MonoDevelop.Ide.ItemProperties.4ReversedArrayOfStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="4ReversedArrayOfStrings/Program.cs">
+    <Files>
+      <File FileName="4ReversedArrayOfStrings/Program.cs" Line="17" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

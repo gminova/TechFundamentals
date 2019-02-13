@@ -1,0 +1,11 @@
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/bin/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.deps.json
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/bin/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.runtimeconfig.json
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/bin/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.runtimeconfig.dev.json
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/bin/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.dll
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/bin/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.pdb
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/obj/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.csprojAssemblyReference.cache
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/obj/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/obj/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/obj/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.AssemblyInfo.cs
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/obj/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.dll
+/home/gigi/Projects/2PrintNumbersInReverseOrder/2PrintNumbersInReverseOrder/obj/Debug/netcoreapp2.2/2PrintNumbersInReverseOrder.pdb

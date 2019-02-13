@@ -1,0 +1,11 @@
+/home/gigi/Projects/02CommonElements/02CommonElements/obj/Debug/netcoreapp2.2/02CommonElements.csprojAssemblyReference.cache
+/home/gigi/Projects/02CommonElements/02CommonElements/obj/Debug/netcoreapp2.2/02CommonElements.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/02CommonElements/02CommonElements/obj/Debug/netcoreapp2.2/02CommonElements.AssemblyInfoInputs.cache
+/home/gigi/Projects/02CommonElements/02CommonElements/obj/Debug/netcoreapp2.2/02CommonElements.AssemblyInfo.cs
+/home/gigi/Projects/02CommonElements/02CommonElements/bin/Debug/netcoreapp2.2/02CommonElements.deps.json
+/home/gigi/Projects/02CommonElements/02CommonElements/bin/Debug/netcoreapp2.2/02CommonElements.runtimeconfig.json
+/home/gigi/Projects/02CommonElements/02CommonElements/bin/Debug/netcoreapp2.2/02CommonElements.runtimeconfig.dev.json
+/home/gigi/Projects/02CommonElements/02CommonElements/bin/Debug/netcoreapp2.2/02CommonElements.dll
+/home/gigi/Projects/02CommonElements/02CommonElements/bin/Debug/netcoreapp2.2/02CommonElements.pdb
+/home/gigi/Projects/02CommonElements/02CommonElements/obj/Debug/netcoreapp2.2/02CommonElements.dll
+/home/gigi/Projects/02CommonElements/02CommonElements/obj/Debug/netcoreapp2.2/02CommonElements.pdb

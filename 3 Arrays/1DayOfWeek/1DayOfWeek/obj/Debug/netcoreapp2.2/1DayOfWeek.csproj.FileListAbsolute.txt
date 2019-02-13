@@ -1,0 +1,11 @@
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/bin/Debug/netcoreapp2.2/1DayOfWeek.deps.json
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/bin/Debug/netcoreapp2.2/1DayOfWeek.runtimeconfig.json
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/bin/Debug/netcoreapp2.2/1DayOfWeek.runtimeconfig.dev.json
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/bin/Debug/netcoreapp2.2/1DayOfWeek.dll
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/bin/Debug/netcoreapp2.2/1DayOfWeek.pdb
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/obj/Debug/netcoreapp2.2/1DayOfWeek.csprojAssemblyReference.cache
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/obj/Debug/netcoreapp2.2/1DayOfWeek.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/obj/Debug/netcoreapp2.2/1DayOfWeek.AssemblyInfoInputs.cache
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/obj/Debug/netcoreapp2.2/1DayOfWeek.AssemblyInfo.cs
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/obj/Debug/netcoreapp2.2/1DayOfWeek.dll
+/home/gigi/Projects/1DayOfWeek/1DayOfWeek/obj/Debug/netcoreapp2.2/1DayOfWeek.pdb

@@ -1,0 +1,11 @@
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/obj/Debug/netcoreapp2.2/3RoundingNumbers.csprojAssemblyReference.cache
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/obj/Debug/netcoreapp2.2/3RoundingNumbers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/obj/Debug/netcoreapp2.2/3RoundingNumbers.AssemblyInfoInputs.cache
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/obj/Debug/netcoreapp2.2/3RoundingNumbers.AssemblyInfo.cs
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/bin/Debug/netcoreapp2.2/3RoundingNumbers.deps.json
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/bin/Debug/netcoreapp2.2/3RoundingNumbers.runtimeconfig.json
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/bin/Debug/netcoreapp2.2/3RoundingNumbers.runtimeconfig.dev.json
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/bin/Debug/netcoreapp2.2/3RoundingNumbers.dll
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/bin/Debug/netcoreapp2.2/3RoundingNumbers.pdb
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/obj/Debug/netcoreapp2.2/3RoundingNumbers.dll
+/home/gigi/Projects/3RoundingNumbers/3RoundingNumbers/obj/Debug/netcoreapp2.2/3RoundingNumbers.pdb

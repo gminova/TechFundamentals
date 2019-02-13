@@ -1,0 +1,11 @@
+/home/gigi/Projects/06EqualSum/06EqualSum/bin/Debug/netcoreapp2.2/06EqualSum.deps.json
+/home/gigi/Projects/06EqualSum/06EqualSum/bin/Debug/netcoreapp2.2/06EqualSum.runtimeconfig.json
+/home/gigi/Projects/06EqualSum/06EqualSum/bin/Debug/netcoreapp2.2/06EqualSum.runtimeconfig.dev.json
+/home/gigi/Projects/06EqualSum/06EqualSum/bin/Debug/netcoreapp2.2/06EqualSum.dll
+/home/gigi/Projects/06EqualSum/06EqualSum/bin/Debug/netcoreapp2.2/06EqualSum.pdb
+/home/gigi/Projects/06EqualSum/06EqualSum/obj/Debug/netcoreapp2.2/06EqualSum.csprojAssemblyReference.cache
+/home/gigi/Projects/06EqualSum/06EqualSum/obj/Debug/netcoreapp2.2/06EqualSum.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/06EqualSum/06EqualSum/obj/Debug/netcoreapp2.2/06EqualSum.AssemblyInfoInputs.cache
+/home/gigi/Projects/06EqualSum/06EqualSum/obj/Debug/netcoreapp2.2/06EqualSum.AssemblyInfo.cs
+/home/gigi/Projects/06EqualSum/06EqualSum/obj/Debug/netcoreapp2.2/06EqualSum.dll
+/home/gigi/Projects/06EqualSum/06EqualSum/obj/Debug/netcoreapp2.2/06EqualSum.pdb

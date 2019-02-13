@@ -1,0 +1,11 @@
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/bin/Debug/netcoreapp2.2/04ArrayRotation.deps.json
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/bin/Debug/netcoreapp2.2/04ArrayRotation.runtimeconfig.json
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/bin/Debug/netcoreapp2.2/04ArrayRotation.runtimeconfig.dev.json
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/bin/Debug/netcoreapp2.2/04ArrayRotation.dll
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/bin/Debug/netcoreapp2.2/04ArrayRotation.pdb
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/obj/Debug/netcoreapp2.2/04ArrayRotation.csprojAssemblyReference.cache
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/obj/Debug/netcoreapp2.2/04ArrayRotation.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/obj/Debug/netcoreapp2.2/04ArrayRotation.AssemblyInfoInputs.cache
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/obj/Debug/netcoreapp2.2/04ArrayRotation.AssemblyInfo.cs
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/obj/Debug/netcoreapp2.2/04ArrayRotation.dll
+/home/gigi/Projects/04ArrayRotation/04ArrayRotation/obj/Debug/netcoreapp2.2/04ArrayRotation.pdb

@@ -1,0 +1,11 @@
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/bin/Debug/netcoreapp2.2/5SumEvenNumbers.deps.json
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/bin/Debug/netcoreapp2.2/5SumEvenNumbers.runtimeconfig.json
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/bin/Debug/netcoreapp2.2/5SumEvenNumbers.runtimeconfig.dev.json
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/bin/Debug/netcoreapp2.2/5SumEvenNumbers.dll
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/bin/Debug/netcoreapp2.2/5SumEvenNumbers.pdb
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/obj/Debug/netcoreapp2.2/5SumEvenNumbers.csprojAssemblyReference.cache
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/obj/Debug/netcoreapp2.2/5SumEvenNumbers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/obj/Debug/netcoreapp2.2/5SumEvenNumbers.AssemblyInfoInputs.cache
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/obj/Debug/netcoreapp2.2/5SumEvenNumbers.AssemblyInfo.cs
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/obj/Debug/netcoreapp2.2/5SumEvenNumbers.dll
+/home/gigi/Projects/5SumEvenNumbers/5SumEvenNumbers/obj/Debug/netcoreapp2.2/5SumEvenNumbers.pdb

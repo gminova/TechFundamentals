@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{41B60D3A-9019-4CE8-B1E4-9024C4DA7823}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+﻿<Properties StartupConfiguration="{F18257A2-B315-4C30-A5D6-C0B436363673}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3RoundingNumbers/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="75" Column="47" />
+      <File FileName="3RoundingNumbers/Program.cs" Line="41" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.6BalancedBrackets PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.3RoundingNumbers PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

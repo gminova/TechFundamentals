@@ -1,12 +1,12 @@
-﻿<Properties StartupConfiguration="{41B60D3A-9019-4CE8-B1E4-9024C4DA7823}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+﻿<Properties StartupConfiguration="{B7F4B0B0-FFCC-462F-960C-3575362E398E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="010LadyBugs/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="75" Column="47" />
+      <File FileName="010LadyBugs/Program.cs" Line="125" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.010LadyBugs FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.6BalancedBrackets PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

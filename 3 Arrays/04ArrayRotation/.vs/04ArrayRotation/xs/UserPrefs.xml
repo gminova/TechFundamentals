@@ -1,12 +1,12 @@
-﻿<Properties StartupConfiguration="{41B60D3A-9019-4CE8-B1E4-9024C4DA7823}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+﻿<Properties StartupConfiguration="{C98A4655-6AE5-49CA-ADA6-DAB43418FC1C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="04ArrayRotation/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="75" Column="47" />
+      <File FileName="04ArrayRotation/Program.cs" Line="22" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04ArrayRotation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.6BalancedBrackets PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

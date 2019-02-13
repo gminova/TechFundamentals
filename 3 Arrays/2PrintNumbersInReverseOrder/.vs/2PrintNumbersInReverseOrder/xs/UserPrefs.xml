@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A085A347-3D05-4185-A453-2D8E79D27F87}|Default">
+  <MonoDevelop.Ide.ItemProperties.2PrintNumbersInReverseOrder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2PrintNumbersInReverseOrder/Program.cs">
+    <Files>
+      <File FileName="2PrintNumbersInReverseOrder/Program.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D6699529-D5E5-4FB3-A461-E49AB6F75DF1}|Default">
+  <MonoDevelop.Ide.ItemProperties.0__1EncryptSortAndPrintArray FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="0_1EncryptSortAndPrintArray/Program.cs">
+    <Files>
+      <File FileName="0_1EncryptSortAndPrintArray/Program.cs" Line="31" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

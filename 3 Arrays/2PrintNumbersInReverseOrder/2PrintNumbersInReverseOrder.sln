@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2PrintNumbersInReverseOrder", "2PrintNumbersInReverseOrder\2PrintNumbersInReverseOrder.csproj", "{A085A347-3D05-4185-A453-2D8E79D27F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A085A347-3D05-4185-A453-2D8E79D27F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A085A347-3D05-4185-A453-2D8E79D27F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A085A347-3D05-4185-A453-2D8E79D27F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A085A347-3D05-4185-A453-2D8E79D27F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/bin/Debug/netcoreapp2.2/8CondenseArrayToNumber.deps.json
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/bin/Debug/netcoreapp2.2/8CondenseArrayToNumber.runtimeconfig.json
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/bin/Debug/netcoreapp2.2/8CondenseArrayToNumber.runtimeconfig.dev.json
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/bin/Debug/netcoreapp2.2/8CondenseArrayToNumber.dll
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/bin/Debug/netcoreapp2.2/8CondenseArrayToNumber.pdb
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/obj/Debug/netcoreapp2.2/8CondenseArrayToNumber.csprojAssemblyReference.cache
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/obj/Debug/netcoreapp2.2/8CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/obj/Debug/netcoreapp2.2/8CondenseArrayToNumber.AssemblyInfoInputs.cache
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/obj/Debug/netcoreapp2.2/8CondenseArrayToNumber.AssemblyInfo.cs
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/obj/Debug/netcoreapp2.2/8CondenseArrayToNumber.dll
+/home/gigi/Projects/8CondenseArrayToNumber/8CondenseArrayToNumber/obj/Debug/netcoreapp2.2/8CondenseArrayToNumber.pdb

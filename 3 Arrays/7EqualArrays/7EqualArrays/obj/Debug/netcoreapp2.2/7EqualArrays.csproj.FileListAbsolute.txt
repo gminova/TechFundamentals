@@ -1,0 +1,11 @@
+/home/gigi/Projects/7EqualArrays/7EqualArrays/bin/Debug/netcoreapp2.2/7EqualArrays.deps.json
+/home/gigi/Projects/7EqualArrays/7EqualArrays/bin/Debug/netcoreapp2.2/7EqualArrays.runtimeconfig.json
+/home/gigi/Projects/7EqualArrays/7EqualArrays/bin/Debug/netcoreapp2.2/7EqualArrays.runtimeconfig.dev.json
+/home/gigi/Projects/7EqualArrays/7EqualArrays/bin/Debug/netcoreapp2.2/7EqualArrays.dll
+/home/gigi/Projects/7EqualArrays/7EqualArrays/bin/Debug/netcoreapp2.2/7EqualArrays.pdb
+/home/gigi/Projects/7EqualArrays/7EqualArrays/obj/Debug/netcoreapp2.2/7EqualArrays.csprojAssemblyReference.cache
+/home/gigi/Projects/7EqualArrays/7EqualArrays/obj/Debug/netcoreapp2.2/7EqualArrays.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/7EqualArrays/7EqualArrays/obj/Debug/netcoreapp2.2/7EqualArrays.AssemblyInfoInputs.cache
+/home/gigi/Projects/7EqualArrays/7EqualArrays/obj/Debug/netcoreapp2.2/7EqualArrays.AssemblyInfo.cs
+/home/gigi/Projects/7EqualArrays/7EqualArrays/obj/Debug/netcoreapp2.2/7EqualArrays.dll
+/home/gigi/Projects/7EqualArrays/7EqualArrays/obj/Debug/netcoreapp2.2/7EqualArrays.pdb

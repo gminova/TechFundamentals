@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E1F6F9D2-6C60-4CB0-BC36-4CB957680160}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="07MaxSequenceOfEqualElements/Program.cs">
+    <Files>
+      <File FileName="07MaxSequenceOfEqualElements/Program.cs" Line="51" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.07MaxSequenceOfEqualElements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

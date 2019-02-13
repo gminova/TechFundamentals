@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9DA0E03F-F483-448F-B641-BAAB0B5EB90A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="0_2PascalTriangle/Program.cs">
+    <Files>
+      <File FileName="0_2PascalTriangle/Program.cs" Line="76" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.0__2PascalTriangle FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

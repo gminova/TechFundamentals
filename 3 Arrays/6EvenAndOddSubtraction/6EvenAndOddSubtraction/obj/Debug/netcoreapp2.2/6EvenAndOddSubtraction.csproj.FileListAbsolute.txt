@@ -1,0 +1,11 @@
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/bin/Debug/netcoreapp2.2/6EvenAndOddSubtraction.deps.json
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/bin/Debug/netcoreapp2.2/6EvenAndOddSubtraction.runtimeconfig.json
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/bin/Debug/netcoreapp2.2/6EvenAndOddSubtraction.runtimeconfig.dev.json
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/bin/Debug/netcoreapp2.2/6EvenAndOddSubtraction.dll
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/bin/Debug/netcoreapp2.2/6EvenAndOddSubtraction.pdb
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/obj/Debug/netcoreapp2.2/6EvenAndOddSubtraction.csprojAssemblyReference.cache
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/obj/Debug/netcoreapp2.2/6EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/obj/Debug/netcoreapp2.2/6EvenAndOddSubtraction.AssemblyInfoInputs.cache
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/obj/Debug/netcoreapp2.2/6EvenAndOddSubtraction.AssemblyInfo.cs
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/obj/Debug/netcoreapp2.2/6EvenAndOddSubtraction.dll
+/home/gigi/Projects/6EvenAndOddSubtraction/6EvenAndOddSubtraction/obj/Debug/netcoreapp2.2/6EvenAndOddSubtraction.pdb

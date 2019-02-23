@@ -1,0 +1,11 @@
+/home/gigi/Projects/8MathPower/8MathPower/bin/Debug/netcoreapp2.2/8MathPower.deps.json
+/home/gigi/Projects/8MathPower/8MathPower/bin/Debug/netcoreapp2.2/8MathPower.runtimeconfig.json
+/home/gigi/Projects/8MathPower/8MathPower/bin/Debug/netcoreapp2.2/8MathPower.runtimeconfig.dev.json
+/home/gigi/Projects/8MathPower/8MathPower/bin/Debug/netcoreapp2.2/8MathPower.dll
+/home/gigi/Projects/8MathPower/8MathPower/bin/Debug/netcoreapp2.2/8MathPower.pdb
+/home/gigi/Projects/8MathPower/8MathPower/obj/Debug/netcoreapp2.2/8MathPower.csprojAssemblyReference.cache
+/home/gigi/Projects/8MathPower/8MathPower/obj/Debug/netcoreapp2.2/8MathPower.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/8MathPower/8MathPower/obj/Debug/netcoreapp2.2/8MathPower.AssemblyInfoInputs.cache
+/home/gigi/Projects/8MathPower/8MathPower/obj/Debug/netcoreapp2.2/8MathPower.AssemblyInfo.cs
+/home/gigi/Projects/8MathPower/8MathPower/obj/Debug/netcoreapp2.2/8MathPower.dll
+/home/gigi/Projects/8MathPower/8MathPower/obj/Debug/netcoreapp2.2/8MathPower.pdb

@@ -1,0 +1,11 @@
+/home/gigi/Projects/010TopInteger/010TopInteger/bin/Debug/netcoreapp2.2/010TopInteger.deps.json
+/home/gigi/Projects/010TopInteger/010TopInteger/bin/Debug/netcoreapp2.2/010TopInteger.runtimeconfig.json
+/home/gigi/Projects/010TopInteger/010TopInteger/bin/Debug/netcoreapp2.2/010TopInteger.runtimeconfig.dev.json
+/home/gigi/Projects/010TopInteger/010TopInteger/bin/Debug/netcoreapp2.2/010TopInteger.dll
+/home/gigi/Projects/010TopInteger/010TopInteger/bin/Debug/netcoreapp2.2/010TopInteger.pdb
+/home/gigi/Projects/010TopInteger/010TopInteger/obj/Debug/netcoreapp2.2/010TopInteger.csprojAssemblyReference.cache
+/home/gigi/Projects/010TopInteger/010TopInteger/obj/Debug/netcoreapp2.2/010TopInteger.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/010TopInteger/010TopInteger/obj/Debug/netcoreapp2.2/010TopInteger.AssemblyInfoInputs.cache
+/home/gigi/Projects/010TopInteger/010TopInteger/obj/Debug/netcoreapp2.2/010TopInteger.AssemblyInfo.cs
+/home/gigi/Projects/010TopInteger/010TopInteger/obj/Debug/netcoreapp2.2/010TopInteger.dll
+/home/gigi/Projects/010TopInteger/010TopInteger/obj/Debug/netcoreapp2.2/010TopInteger.pdb

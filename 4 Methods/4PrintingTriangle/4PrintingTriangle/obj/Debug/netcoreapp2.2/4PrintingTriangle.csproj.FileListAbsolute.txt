@@ -1,0 +1,11 @@
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/bin/Debug/netcoreapp2.2/4PrintingTriangle.deps.json
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/bin/Debug/netcoreapp2.2/4PrintingTriangle.runtimeconfig.json
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/bin/Debug/netcoreapp2.2/4PrintingTriangle.runtimeconfig.dev.json
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/bin/Debug/netcoreapp2.2/4PrintingTriangle.dll
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/bin/Debug/netcoreapp2.2/4PrintingTriangle.pdb
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/obj/Debug/netcoreapp2.2/4PrintingTriangle.csprojAssemblyReference.cache
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/obj/Debug/netcoreapp2.2/4PrintingTriangle.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/obj/Debug/netcoreapp2.2/4PrintingTriangle.AssemblyInfoInputs.cache
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/obj/Debug/netcoreapp2.2/4PrintingTriangle.AssemblyInfo.cs
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/obj/Debug/netcoreapp2.2/4PrintingTriangle.dll
+/home/gigi/Projects/4PrintingTriangle/4PrintingTriangle/obj/Debug/netcoreapp2.2/4PrintingTriangle.pdb

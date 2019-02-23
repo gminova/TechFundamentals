@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5434C365-8AF1-4E69-A9B5-85A51B26D1CF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="0_4TribonacciSequence/Program.cs">
+    <Files>
+      <File FileName="0_4TribonacciSequence/Program.cs" Line="33" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.0__4TribonacciSequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

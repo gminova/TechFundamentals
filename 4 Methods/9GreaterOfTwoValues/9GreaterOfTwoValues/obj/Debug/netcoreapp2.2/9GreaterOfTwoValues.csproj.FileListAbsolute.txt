@@ -1,0 +1,11 @@
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/bin/Debug/netcoreapp2.2/9GreaterOfTwoValues.deps.json
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/bin/Debug/netcoreapp2.2/9GreaterOfTwoValues.runtimeconfig.json
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/bin/Debug/netcoreapp2.2/9GreaterOfTwoValues.runtimeconfig.dev.json
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/bin/Debug/netcoreapp2.2/9GreaterOfTwoValues.dll
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/bin/Debug/netcoreapp2.2/9GreaterOfTwoValues.pdb
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/obj/Debug/netcoreapp2.2/9GreaterOfTwoValues.csprojAssemblyReference.cache
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/obj/Debug/netcoreapp2.2/9GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/obj/Debug/netcoreapp2.2/9GreaterOfTwoValues.AssemblyInfoInputs.cache
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/obj/Debug/netcoreapp2.2/9GreaterOfTwoValues.AssemblyInfo.cs
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/obj/Debug/netcoreapp2.2/9GreaterOfTwoValues.dll
+/home/gigi/Projects/9GreaterOfTwoValues/9GreaterOfTwoValues/obj/Debug/netcoreapp2.2/9GreaterOfTwoValues.pdb

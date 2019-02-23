@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{81E81312-D059-40C2-A9E1-14B4EB5DE31B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1SignOfIntegerNumber/Program.cs">
+    <Files>
+      <File FileName="1SignOfIntegerNumber/Program.cs" Line="21" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.1SignOfIntegerNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/bin/Debug/netcoreapp2.2/09PalindromeIntegers.deps.json
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/bin/Debug/netcoreapp2.2/09PalindromeIntegers.runtimeconfig.json
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/bin/Debug/netcoreapp2.2/09PalindromeIntegers.runtimeconfig.dev.json
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/bin/Debug/netcoreapp2.2/09PalindromeIntegers.dll
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/bin/Debug/netcoreapp2.2/09PalindromeIntegers.pdb
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/obj/Debug/netcoreapp2.2/09PalindromeIntegers.csprojAssemblyReference.cache
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/obj/Debug/netcoreapp2.2/09PalindromeIntegers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/obj/Debug/netcoreapp2.2/09PalindromeIntegers.AssemblyInfoInputs.cache
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/obj/Debug/netcoreapp2.2/09PalindromeIntegers.AssemblyInfo.cs
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/obj/Debug/netcoreapp2.2/09PalindromeIntegers.dll
+/home/gigi/Projects/09PalindromeIntegers/09PalindromeIntegers/obj/Debug/netcoreapp2.2/09PalindromeIntegers.pdb

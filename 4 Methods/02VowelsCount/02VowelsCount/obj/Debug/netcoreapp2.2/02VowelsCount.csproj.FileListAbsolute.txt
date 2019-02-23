@@ -1,0 +1,11 @@
+/home/gigi/Projects/02VowelsCount/02VowelsCount/bin/Debug/netcoreapp2.2/02VowelsCount.deps.json
+/home/gigi/Projects/02VowelsCount/02VowelsCount/bin/Debug/netcoreapp2.2/02VowelsCount.runtimeconfig.json
+/home/gigi/Projects/02VowelsCount/02VowelsCount/bin/Debug/netcoreapp2.2/02VowelsCount.runtimeconfig.dev.json
+/home/gigi/Projects/02VowelsCount/02VowelsCount/bin/Debug/netcoreapp2.2/02VowelsCount.dll
+/home/gigi/Projects/02VowelsCount/02VowelsCount/bin/Debug/netcoreapp2.2/02VowelsCount.pdb
+/home/gigi/Projects/02VowelsCount/02VowelsCount/obj/Debug/netcoreapp2.2/02VowelsCount.csprojAssemblyReference.cache
+/home/gigi/Projects/02VowelsCount/02VowelsCount/obj/Debug/netcoreapp2.2/02VowelsCount.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/02VowelsCount/02VowelsCount/obj/Debug/netcoreapp2.2/02VowelsCount.AssemblyInfoInputs.cache
+/home/gigi/Projects/02VowelsCount/02VowelsCount/obj/Debug/netcoreapp2.2/02VowelsCount.AssemblyInfo.cs
+/home/gigi/Projects/02VowelsCount/02VowelsCount/obj/Debug/netcoreapp2.2/02VowelsCount.dll
+/home/gigi/Projects/02VowelsCount/02VowelsCount/obj/Debug/netcoreapp2.2/02VowelsCount.pdb

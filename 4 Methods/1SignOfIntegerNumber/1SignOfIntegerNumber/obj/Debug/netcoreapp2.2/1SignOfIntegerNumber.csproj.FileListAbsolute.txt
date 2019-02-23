@@ -1,0 +1,11 @@
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/bin/Debug/netcoreapp2.2/1SignOfIntegerNumber.deps.json
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/bin/Debug/netcoreapp2.2/1SignOfIntegerNumber.runtimeconfig.json
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/bin/Debug/netcoreapp2.2/1SignOfIntegerNumber.runtimeconfig.dev.json
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/bin/Debug/netcoreapp2.2/1SignOfIntegerNumber.dll
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/bin/Debug/netcoreapp2.2/1SignOfIntegerNumber.pdb
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/obj/Debug/netcoreapp2.2/1SignOfIntegerNumber.csprojAssemblyReference.cache
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/obj/Debug/netcoreapp2.2/1SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/obj/Debug/netcoreapp2.2/1SignOfIntegerNumber.AssemblyInfoInputs.cache
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/obj/Debug/netcoreapp2.2/1SignOfIntegerNumber.AssemblyInfo.cs
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/obj/Debug/netcoreapp2.2/1SignOfIntegerNumber.dll
+/home/gigi/Projects/1SignOfIntegerNumber/1SignOfIntegerNumber/obj/Debug/netcoreapp2.2/1SignOfIntegerNumber.pdb

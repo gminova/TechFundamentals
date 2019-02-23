@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{822C0755-11A2-4B4A-9943-E68CFBC0B958}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="0_5MultiplicationSign/Program.cs">
+    <Files>
+      <File FileName="0_5MultiplicationSign/Program.cs" Line="20" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.0__5MultiplicationSign PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

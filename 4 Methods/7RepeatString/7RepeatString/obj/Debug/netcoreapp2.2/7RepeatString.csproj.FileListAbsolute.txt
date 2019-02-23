@@ -1,0 +1,11 @@
+/home/gigi/Projects/7RepeatString/7RepeatString/bin/Debug/netcoreapp2.2/7RepeatString.deps.json
+/home/gigi/Projects/7RepeatString/7RepeatString/bin/Debug/netcoreapp2.2/7RepeatString.runtimeconfig.json
+/home/gigi/Projects/7RepeatString/7RepeatString/bin/Debug/netcoreapp2.2/7RepeatString.runtimeconfig.dev.json
+/home/gigi/Projects/7RepeatString/7RepeatString/bin/Debug/netcoreapp2.2/7RepeatString.dll
+/home/gigi/Projects/7RepeatString/7RepeatString/bin/Debug/netcoreapp2.2/7RepeatString.pdb
+/home/gigi/Projects/7RepeatString/7RepeatString/obj/Debug/netcoreapp2.2/7RepeatString.csprojAssemblyReference.cache
+/home/gigi/Projects/7RepeatString/7RepeatString/obj/Debug/netcoreapp2.2/7RepeatString.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/7RepeatString/7RepeatString/obj/Debug/netcoreapp2.2/7RepeatString.AssemblyInfoInputs.cache
+/home/gigi/Projects/7RepeatString/7RepeatString/obj/Debug/netcoreapp2.2/7RepeatString.AssemblyInfo.cs
+/home/gigi/Projects/7RepeatString/7RepeatString/obj/Debug/netcoreapp2.2/7RepeatString.dll
+/home/gigi/Projects/7RepeatString/7RepeatString/obj/Debug/netcoreapp2.2/7RepeatString.pdb

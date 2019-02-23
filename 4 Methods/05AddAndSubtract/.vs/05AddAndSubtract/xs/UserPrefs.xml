@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{44C5C003-0604-427C-8195-ECE40DB1AA8F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="05AddAndSubtract/Program.cs">
+    <Files>
+      <File FileName="05AddAndSubtract/Program.cs" Line="13" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05AddAndSubtract PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

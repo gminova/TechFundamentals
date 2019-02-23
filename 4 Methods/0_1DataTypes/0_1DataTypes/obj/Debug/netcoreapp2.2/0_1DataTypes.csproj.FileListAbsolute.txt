@@ -1,0 +1,11 @@
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/bin/Debug/netcoreapp2.2/0_1DataTypes.deps.json
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/bin/Debug/netcoreapp2.2/0_1DataTypes.runtimeconfig.json
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/bin/Debug/netcoreapp2.2/0_1DataTypes.runtimeconfig.dev.json
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/bin/Debug/netcoreapp2.2/0_1DataTypes.dll
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/bin/Debug/netcoreapp2.2/0_1DataTypes.pdb
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/obj/Debug/netcoreapp2.2/0_1DataTypes.csprojAssemblyReference.cache
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/obj/Debug/netcoreapp2.2/0_1DataTypes.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/obj/Debug/netcoreapp2.2/0_1DataTypes.AssemblyInfoInputs.cache
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/obj/Debug/netcoreapp2.2/0_1DataTypes.AssemblyInfo.cs
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/obj/Debug/netcoreapp2.2/0_1DataTypes.dll
+/home/gigi/Projects/0_1DataTypes/0_1DataTypes/obj/Debug/netcoreapp2.2/0_1DataTypes.pdb

@@ -1,0 +1,11 @@
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/bin/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.deps.json
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/bin/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.runtimeconfig.json
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/bin/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.runtimeconfig.dev.json
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/bin/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.dll
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/bin/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.pdb
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/obj/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.csprojAssemblyReference.cache
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/obj/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/obj/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/obj/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.AssemblyInfo.cs
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/obj/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.dll
+/home/gigi/Projects/01SmallestOfThreeNumbers/01SmallestOfThreeNumbers/obj/Debug/netcoreapp2.2/01SmallestOfThreeNumbers.pdb

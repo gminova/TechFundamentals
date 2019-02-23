@@ -1,0 +1,11 @@
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/bin/Debug/netcoreapp2.2/6CalculateRectangleArea.deps.json
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/bin/Debug/netcoreapp2.2/6CalculateRectangleArea.runtimeconfig.json
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/bin/Debug/netcoreapp2.2/6CalculateRectangleArea.runtimeconfig.dev.json
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/bin/Debug/netcoreapp2.2/6CalculateRectangleArea.dll
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/bin/Debug/netcoreapp2.2/6CalculateRectangleArea.pdb
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/obj/Debug/netcoreapp2.2/6CalculateRectangleArea.csprojAssemblyReference.cache
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/obj/Debug/netcoreapp2.2/6CalculateRectangleArea.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/obj/Debug/netcoreapp2.2/6CalculateRectangleArea.AssemblyInfoInputs.cache
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/obj/Debug/netcoreapp2.2/6CalculateRectangleArea.AssemblyInfo.cs
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/obj/Debug/netcoreapp2.2/6CalculateRectangleArea.dll
+/home/gigi/Projects/6CalculateRectangleArea/6CalculateRectangleArea/obj/Debug/netcoreapp2.2/6CalculateRectangleArea.pdb

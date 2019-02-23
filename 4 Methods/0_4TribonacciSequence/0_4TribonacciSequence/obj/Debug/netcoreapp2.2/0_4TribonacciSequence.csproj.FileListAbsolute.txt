@@ -1,0 +1,11 @@
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/bin/Debug/netcoreapp2.2/0_4TribonacciSequence.deps.json
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/bin/Debug/netcoreapp2.2/0_4TribonacciSequence.runtimeconfig.json
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/bin/Debug/netcoreapp2.2/0_4TribonacciSequence.runtimeconfig.dev.json
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/bin/Debug/netcoreapp2.2/0_4TribonacciSequence.dll
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/bin/Debug/netcoreapp2.2/0_4TribonacciSequence.pdb
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/obj/Debug/netcoreapp2.2/0_4TribonacciSequence.csprojAssemblyReference.cache
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/obj/Debug/netcoreapp2.2/0_4TribonacciSequence.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/obj/Debug/netcoreapp2.2/0_4TribonacciSequence.AssemblyInfoInputs.cache
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/obj/Debug/netcoreapp2.2/0_4TribonacciSequence.AssemblyInfo.cs
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/obj/Debug/netcoreapp2.2/0_4TribonacciSequence.dll
+/home/gigi/Projects/0_4TribonacciSequence/0_4TribonacciSequence/obj/Debug/netcoreapp2.2/0_4TribonacciSequence.pdb

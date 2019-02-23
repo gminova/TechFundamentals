@@ -1,0 +1,11 @@
+/home/gigi/Projects/3Calculations/3Calculations/obj/Debug/netcoreapp2.2/3Calculations.csprojAssemblyReference.cache
+/home/gigi/Projects/3Calculations/3Calculations/obj/Debug/netcoreapp2.2/3Calculations.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/3Calculations/3Calculations/obj/Debug/netcoreapp2.2/3Calculations.AssemblyInfoInputs.cache
+/home/gigi/Projects/3Calculations/3Calculations/obj/Debug/netcoreapp2.2/3Calculations.AssemblyInfo.cs
+/home/gigi/Projects/3Calculations/3Calculations/bin/Debug/netcoreapp2.2/3Calculations.deps.json
+/home/gigi/Projects/3Calculations/3Calculations/bin/Debug/netcoreapp2.2/3Calculations.runtimeconfig.json
+/home/gigi/Projects/3Calculations/3Calculations/bin/Debug/netcoreapp2.2/3Calculations.runtimeconfig.dev.json
+/home/gigi/Projects/3Calculations/3Calculations/bin/Debug/netcoreapp2.2/3Calculations.dll
+/home/gigi/Projects/3Calculations/3Calculations/bin/Debug/netcoreapp2.2/3Calculations.pdb
+/home/gigi/Projects/3Calculations/3Calculations/obj/Debug/netcoreapp2.2/3Calculations.dll
+/home/gigi/Projects/3Calculations/3Calculations/obj/Debug/netcoreapp2.2/3Calculations.pdb

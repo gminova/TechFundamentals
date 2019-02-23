@@ -1,0 +1,11 @@
+/home/gigi/Projects/5Orders/5Orders/bin/Debug/netcoreapp2.2/5Orders.deps.json
+/home/gigi/Projects/5Orders/5Orders/bin/Debug/netcoreapp2.2/5Orders.runtimeconfig.json
+/home/gigi/Projects/5Orders/5Orders/bin/Debug/netcoreapp2.2/5Orders.runtimeconfig.dev.json
+/home/gigi/Projects/5Orders/5Orders/bin/Debug/netcoreapp2.2/5Orders.dll
+/home/gigi/Projects/5Orders/5Orders/bin/Debug/netcoreapp2.2/5Orders.pdb
+/home/gigi/Projects/5Orders/5Orders/obj/Debug/netcoreapp2.2/5Orders.csprojAssemblyReference.cache
+/home/gigi/Projects/5Orders/5Orders/obj/Debug/netcoreapp2.2/5Orders.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/5Orders/5Orders/obj/Debug/netcoreapp2.2/5Orders.AssemblyInfoInputs.cache
+/home/gigi/Projects/5Orders/5Orders/obj/Debug/netcoreapp2.2/5Orders.AssemblyInfo.cs
+/home/gigi/Projects/5Orders/5Orders/obj/Debug/netcoreapp2.2/5Orders.dll
+/home/gigi/Projects/5Orders/5Orders/obj/Debug/netcoreapp2.2/5Orders.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7F689D98-7EC2-41D6-B270-334047F1E29F}|Default">
+  <MonoDevelop.Ide.ItemProperties.09PalindromeIntegers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="09PalindromeIntegers/Program.cs">
+    <Files>
+      <File FileName="09PalindromeIntegers/Program.cs" Line="54" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

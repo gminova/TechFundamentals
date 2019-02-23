@@ -1,0 +1,11 @@
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/bin/Debug/netcoreapp2.2/07NxNMatrix.deps.json
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/bin/Debug/netcoreapp2.2/07NxNMatrix.runtimeconfig.json
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/bin/Debug/netcoreapp2.2/07NxNMatrix.runtimeconfig.dev.json
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/bin/Debug/netcoreapp2.2/07NxNMatrix.dll
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/bin/Debug/netcoreapp2.2/07NxNMatrix.pdb
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/obj/Debug/netcoreapp2.2/07NxNMatrix.csprojAssemblyReference.cache
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/obj/Debug/netcoreapp2.2/07NxNMatrix.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/obj/Debug/netcoreapp2.2/07NxNMatrix.AssemblyInfoInputs.cache
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/obj/Debug/netcoreapp2.2/07NxNMatrix.AssemblyInfo.cs
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/obj/Debug/netcoreapp2.2/07NxNMatrix.dll
+/home/gigi/Projects/07NxNMatrix/07NxNMatrix/obj/Debug/netcoreapp2.2/07NxNMatrix.pdb

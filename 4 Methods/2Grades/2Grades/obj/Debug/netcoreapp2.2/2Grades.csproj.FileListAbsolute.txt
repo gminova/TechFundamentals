@@ -1,0 +1,11 @@
+/home/gigi/Projects/2Grades/2Grades/bin/Debug/netcoreapp2.2/2Grades.deps.json
+/home/gigi/Projects/2Grades/2Grades/bin/Debug/netcoreapp2.2/2Grades.runtimeconfig.json
+/home/gigi/Projects/2Grades/2Grades/bin/Debug/netcoreapp2.2/2Grades.runtimeconfig.dev.json
+/home/gigi/Projects/2Grades/2Grades/bin/Debug/netcoreapp2.2/2Grades.dll
+/home/gigi/Projects/2Grades/2Grades/bin/Debug/netcoreapp2.2/2Grades.pdb
+/home/gigi/Projects/2Grades/2Grades/obj/Debug/netcoreapp2.2/2Grades.csprojAssemblyReference.cache
+/home/gigi/Projects/2Grades/2Grades/obj/Debug/netcoreapp2.2/2Grades.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/2Grades/2Grades/obj/Debug/netcoreapp2.2/2Grades.AssemblyInfoInputs.cache
+/home/gigi/Projects/2Grades/2Grades/obj/Debug/netcoreapp2.2/2Grades.AssemblyInfo.cs
+/home/gigi/Projects/2Grades/2Grades/obj/Debug/netcoreapp2.2/2Grades.dll
+/home/gigi/Projects/2Grades/2Grades/obj/Debug/netcoreapp2.2/2Grades.pdb

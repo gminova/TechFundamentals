@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5A4D4751-C388-45A2-8006-0A7254FD5806}|Default">
+  <MonoDevelop.Ide.ItemProperties.02VowelsCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02VowelsCount/Program.cs">
+    <Files>
+      <File FileName="02VowelsCount/Program.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/bin/Debug/netcoreapp2.2/05AddAndSubtract.deps.json
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/bin/Debug/netcoreapp2.2/05AddAndSubtract.runtimeconfig.json
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/bin/Debug/netcoreapp2.2/05AddAndSubtract.runtimeconfig.dev.json
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/bin/Debug/netcoreapp2.2/05AddAndSubtract.dll
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/bin/Debug/netcoreapp2.2/05AddAndSubtract.pdb
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/obj/Debug/netcoreapp2.2/05AddAndSubtract.csprojAssemblyReference.cache
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/obj/Debug/netcoreapp2.2/05AddAndSubtract.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/obj/Debug/netcoreapp2.2/05AddAndSubtract.AssemblyInfoInputs.cache
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/obj/Debug/netcoreapp2.2/05AddAndSubtract.AssemblyInfo.cs
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/obj/Debug/netcoreapp2.2/05AddAndSubtract.dll
+/home/gigi/Projects/05AddAndSubtract/05AddAndSubtract/obj/Debug/netcoreapp2.2/05AddAndSubtract.pdb

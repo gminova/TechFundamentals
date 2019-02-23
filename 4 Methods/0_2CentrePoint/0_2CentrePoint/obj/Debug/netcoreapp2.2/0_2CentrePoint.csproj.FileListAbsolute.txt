@@ -1,0 +1,11 @@
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/bin/Debug/netcoreapp2.2/0_2CentrePoint.deps.json
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/bin/Debug/netcoreapp2.2/0_2CentrePoint.runtimeconfig.json
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/bin/Debug/netcoreapp2.2/0_2CentrePoint.runtimeconfig.dev.json
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/bin/Debug/netcoreapp2.2/0_2CentrePoint.dll
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/bin/Debug/netcoreapp2.2/0_2CentrePoint.pdb
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/obj/Debug/netcoreapp2.2/0_2CentrePoint.csprojAssemblyReference.cache
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/obj/Debug/netcoreapp2.2/0_2CentrePoint.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/obj/Debug/netcoreapp2.2/0_2CentrePoint.AssemblyInfoInputs.cache
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/obj/Debug/netcoreapp2.2/0_2CentrePoint.AssemblyInfo.cs
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/obj/Debug/netcoreapp2.2/0_2CentrePoint.dll
+/home/gigi/Projects/0_2CentrePoint/0_2CentrePoint/obj/Debug/netcoreapp2.2/0_2CentrePoint.pdb

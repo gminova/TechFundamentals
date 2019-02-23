@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{24C66E91-6554-4A31-B1EC-6E4D1600B5D4}|Default">
+  <MonoDevelop.Ide.ItemProperties.04PasswordValidator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04PasswordValidator/Program.cs">
+    <Files>
+      <File FileName="04PasswordValidator/Program.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010TopInteger", "010TopInteger\010TopInteger.csproj", "{4487F5DE-F46B-408E-A8D3-0D44FFB5F03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4487F5DE-F46B-408E-A8D3-0D44FFB5F03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4487F5DE-F46B-408E-A8D3-0D44FFB5F03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4487F5DE-F46B-408E-A8D3-0D44FFB5F03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4487F5DE-F46B-408E-A8D3-0D44FFB5F03E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

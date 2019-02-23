@@ -1,0 +1,11 @@
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/bin/Debug/netcoreapp2.2/0_5MultiplicationSign.deps.json
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/bin/Debug/netcoreapp2.2/0_5MultiplicationSign.runtimeconfig.json
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/bin/Debug/netcoreapp2.2/0_5MultiplicationSign.runtimeconfig.dev.json
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/bin/Debug/netcoreapp2.2/0_5MultiplicationSign.dll
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/bin/Debug/netcoreapp2.2/0_5MultiplicationSign.pdb
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/obj/Debug/netcoreapp2.2/0_5MultiplicationSign.csprojAssemblyReference.cache
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/obj/Debug/netcoreapp2.2/0_5MultiplicationSign.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/obj/Debug/netcoreapp2.2/0_5MultiplicationSign.AssemblyInfoInputs.cache
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/obj/Debug/netcoreapp2.2/0_5MultiplicationSign.AssemblyInfo.cs
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/obj/Debug/netcoreapp2.2/0_5MultiplicationSign.dll
+/home/gigi/Projects/0_5MultiplicationSign/0_5MultiplicationSign/obj/Debug/netcoreapp2.2/0_5MultiplicationSign.pdb

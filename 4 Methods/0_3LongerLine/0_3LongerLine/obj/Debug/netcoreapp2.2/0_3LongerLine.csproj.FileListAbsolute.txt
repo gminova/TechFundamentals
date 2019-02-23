@@ -1,0 +1,11 @@
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/bin/Debug/netcoreapp2.2/0_3LongerLine.deps.json
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/bin/Debug/netcoreapp2.2/0_3LongerLine.runtimeconfig.json
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/bin/Debug/netcoreapp2.2/0_3LongerLine.runtimeconfig.dev.json
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/bin/Debug/netcoreapp2.2/0_3LongerLine.dll
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/bin/Debug/netcoreapp2.2/0_3LongerLine.pdb
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/obj/Debug/netcoreapp2.2/0_3LongerLine.csprojAssemblyReference.cache
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/obj/Debug/netcoreapp2.2/0_3LongerLine.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/obj/Debug/netcoreapp2.2/0_3LongerLine.AssemblyInfoInputs.cache
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/obj/Debug/netcoreapp2.2/0_3LongerLine.AssemblyInfo.cs
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/obj/Debug/netcoreapp2.2/0_3LongerLine.dll
+/home/gigi/Projects/0_3LongerLine/0_3LongerLine/obj/Debug/netcoreapp2.2/0_3LongerLine.pdb

@@ -1,0 +1,11 @@
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/bin/Debug/netcoreapp2.2/03CharactersInRange.deps.json
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/bin/Debug/netcoreapp2.2/03CharactersInRange.runtimeconfig.json
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/bin/Debug/netcoreapp2.2/03CharactersInRange.runtimeconfig.dev.json
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/bin/Debug/netcoreapp2.2/03CharactersInRange.dll
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/bin/Debug/netcoreapp2.2/03CharactersInRange.pdb
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/obj/Debug/netcoreapp2.2/03CharactersInRange.csprojAssemblyReference.cache
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/obj/Debug/netcoreapp2.2/03CharactersInRange.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/obj/Debug/netcoreapp2.2/03CharactersInRange.AssemblyInfoInputs.cache
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/obj/Debug/netcoreapp2.2/03CharactersInRange.AssemblyInfo.cs
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/obj/Debug/netcoreapp2.2/03CharactersInRange.dll
+/home/gigi/Projects/03CharactersInRange/03CharactersInRange/obj/Debug/netcoreapp2.2/03CharactersInRange.pdb

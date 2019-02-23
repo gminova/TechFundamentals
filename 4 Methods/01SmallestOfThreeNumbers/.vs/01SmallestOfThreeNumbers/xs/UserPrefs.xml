@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9F7DDA6B-55F4-482D-AADE-B2F3AFBA5D6B}|Default">
+  <MonoDevelop.Ide.ItemProperties.01SmallestOfThreeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01SmallestOfThreeNumbers/Program.cs">
+    <Files>
+      <File FileName="01SmallestOfThreeNumbers/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/bin/Debug/netcoreapp2.2/0_5DrumSet.deps.json
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/bin/Debug/netcoreapp2.2/0_5DrumSet.runtimeconfig.json
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/bin/Debug/netcoreapp2.2/0_5DrumSet.runtimeconfig.dev.json
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/bin/Debug/netcoreapp2.2/0_5DrumSet.dll
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/bin/Debug/netcoreapp2.2/0_5DrumSet.pdb
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/obj/Debug/netcoreapp2.2/0_5DrumSet.csprojAssemblyReference.cache
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/obj/Debug/netcoreapp2.2/0_5DrumSet.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/obj/Debug/netcoreapp2.2/0_5DrumSet.AssemblyInfoInputs.cache
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/obj/Debug/netcoreapp2.2/0_5DrumSet.AssemblyInfo.cs
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/obj/Debug/netcoreapp2.2/0_5DrumSet.dll
+/home/gigi/Projects/0_5DrumSet/0_5DrumSet/obj/Debug/netcoreapp2.2/0_5DrumSet.pdb

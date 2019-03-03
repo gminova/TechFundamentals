@@ -1,0 +1,11 @@
+/home/gigi/Projects/2ChangeList/2ChangeList/bin/Debug/netcoreapp2.2/2ChangeList.deps.json
+/home/gigi/Projects/2ChangeList/2ChangeList/bin/Debug/netcoreapp2.2/2ChangeList.runtimeconfig.json
+/home/gigi/Projects/2ChangeList/2ChangeList/bin/Debug/netcoreapp2.2/2ChangeList.runtimeconfig.dev.json
+/home/gigi/Projects/2ChangeList/2ChangeList/bin/Debug/netcoreapp2.2/2ChangeList.dll
+/home/gigi/Projects/2ChangeList/2ChangeList/bin/Debug/netcoreapp2.2/2ChangeList.pdb
+/home/gigi/Projects/2ChangeList/2ChangeList/obj/Debug/netcoreapp2.2/2ChangeList.csprojAssemblyReference.cache
+/home/gigi/Projects/2ChangeList/2ChangeList/obj/Debug/netcoreapp2.2/2ChangeList.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/2ChangeList/2ChangeList/obj/Debug/netcoreapp2.2/2ChangeList.AssemblyInfoInputs.cache
+/home/gigi/Projects/2ChangeList/2ChangeList/obj/Debug/netcoreapp2.2/2ChangeList.AssemblyInfo.cs
+/home/gigi/Projects/2ChangeList/2ChangeList/obj/Debug/netcoreapp2.2/2ChangeList.dll
+/home/gigi/Projects/2ChangeList/2ChangeList/obj/Debug/netcoreapp2.2/2ChangeList.pdb

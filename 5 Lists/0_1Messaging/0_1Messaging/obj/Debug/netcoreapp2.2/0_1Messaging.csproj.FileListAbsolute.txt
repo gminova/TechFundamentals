@@ -1,0 +1,11 @@
+/home/gigi/Projects/0_1Messaging/0_1Messaging/bin/Debug/netcoreapp2.2/0_1Messaging.deps.json
+/home/gigi/Projects/0_1Messaging/0_1Messaging/bin/Debug/netcoreapp2.2/0_1Messaging.runtimeconfig.json
+/home/gigi/Projects/0_1Messaging/0_1Messaging/bin/Debug/netcoreapp2.2/0_1Messaging.runtimeconfig.dev.json
+/home/gigi/Projects/0_1Messaging/0_1Messaging/bin/Debug/netcoreapp2.2/0_1Messaging.dll
+/home/gigi/Projects/0_1Messaging/0_1Messaging/bin/Debug/netcoreapp2.2/0_1Messaging.pdb
+/home/gigi/Projects/0_1Messaging/0_1Messaging/obj/Debug/netcoreapp2.2/0_1Messaging.csprojAssemblyReference.cache
+/home/gigi/Projects/0_1Messaging/0_1Messaging/obj/Debug/netcoreapp2.2/0_1Messaging.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/0_1Messaging/0_1Messaging/obj/Debug/netcoreapp2.2/0_1Messaging.AssemblyInfoInputs.cache
+/home/gigi/Projects/0_1Messaging/0_1Messaging/obj/Debug/netcoreapp2.2/0_1Messaging.AssemblyInfo.cs
+/home/gigi/Projects/0_1Messaging/0_1Messaging/obj/Debug/netcoreapp2.2/0_1Messaging.dll
+/home/gigi/Projects/0_1Messaging/0_1Messaging/obj/Debug/netcoreapp2.2/0_1Messaging.pdb

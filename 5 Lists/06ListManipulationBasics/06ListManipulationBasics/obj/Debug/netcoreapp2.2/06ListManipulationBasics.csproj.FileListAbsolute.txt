@@ -1,0 +1,11 @@
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/bin/Debug/netcoreapp2.2/06ListManipulationBasics.deps.json
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/bin/Debug/netcoreapp2.2/06ListManipulationBasics.runtimeconfig.json
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/bin/Debug/netcoreapp2.2/06ListManipulationBasics.runtimeconfig.dev.json
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/bin/Debug/netcoreapp2.2/06ListManipulationBasics.dll
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/bin/Debug/netcoreapp2.2/06ListManipulationBasics.pdb
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/obj/Debug/netcoreapp2.2/06ListManipulationBasics.csprojAssemblyReference.cache
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/obj/Debug/netcoreapp2.2/06ListManipulationBasics.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/obj/Debug/netcoreapp2.2/06ListManipulationBasics.AssemblyInfoInputs.cache
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/obj/Debug/netcoreapp2.2/06ListManipulationBasics.AssemblyInfo.cs
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/obj/Debug/netcoreapp2.2/06ListManipulationBasics.dll
+/home/gigi/Projects/06ListManipulationBasics/06ListManipulationBasics/obj/Debug/netcoreapp2.2/06ListManipulationBasics.pdb

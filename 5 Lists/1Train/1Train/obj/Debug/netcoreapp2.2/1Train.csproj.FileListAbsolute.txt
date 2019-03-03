@@ -1,0 +1,11 @@
+/home/gigi/Projects/1Train/1Train/bin/Debug/netcoreapp2.2/1Train.deps.json
+/home/gigi/Projects/1Train/1Train/bin/Debug/netcoreapp2.2/1Train.runtimeconfig.json
+/home/gigi/Projects/1Train/1Train/bin/Debug/netcoreapp2.2/1Train.runtimeconfig.dev.json
+/home/gigi/Projects/1Train/1Train/bin/Debug/netcoreapp2.2/1Train.dll
+/home/gigi/Projects/1Train/1Train/bin/Debug/netcoreapp2.2/1Train.pdb
+/home/gigi/Projects/1Train/1Train/obj/Debug/netcoreapp2.2/1Train.csprojAssemblyReference.cache
+/home/gigi/Projects/1Train/1Train/obj/Debug/netcoreapp2.2/1Train.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/1Train/1Train/obj/Debug/netcoreapp2.2/1Train.AssemblyInfoInputs.cache
+/home/gigi/Projects/1Train/1Train/obj/Debug/netcoreapp2.2/1Train.AssemblyInfo.cs
+/home/gigi/Projects/1Train/1Train/obj/Debug/netcoreapp2.2/1Train.dll
+/home/gigi/Projects/1Train/1Train/obj/Debug/netcoreapp2.2/1Train.pdb

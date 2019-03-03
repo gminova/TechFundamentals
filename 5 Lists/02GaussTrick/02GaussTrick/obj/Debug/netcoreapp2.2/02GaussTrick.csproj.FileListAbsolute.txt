@@ -1,0 +1,11 @@
+/home/gigi/Projects/02GaussTrick/02GaussTrick/bin/Debug/netcoreapp2.2/02GaussTrick.deps.json
+/home/gigi/Projects/02GaussTrick/02GaussTrick/bin/Debug/netcoreapp2.2/02GaussTrick.runtimeconfig.json
+/home/gigi/Projects/02GaussTrick/02GaussTrick/bin/Debug/netcoreapp2.2/02GaussTrick.runtimeconfig.dev.json
+/home/gigi/Projects/02GaussTrick/02GaussTrick/bin/Debug/netcoreapp2.2/02GaussTrick.dll
+/home/gigi/Projects/02GaussTrick/02GaussTrick/bin/Debug/netcoreapp2.2/02GaussTrick.pdb
+/home/gigi/Projects/02GaussTrick/02GaussTrick/obj/Debug/netcoreapp2.2/02GaussTrick.csprojAssemblyReference.cache
+/home/gigi/Projects/02GaussTrick/02GaussTrick/obj/Debug/netcoreapp2.2/02GaussTrick.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/02GaussTrick/02GaussTrick/obj/Debug/netcoreapp2.2/02GaussTrick.AssemblyInfoInputs.cache
+/home/gigi/Projects/02GaussTrick/02GaussTrick/obj/Debug/netcoreapp2.2/02GaussTrick.AssemblyInfo.cs
+/home/gigi/Projects/02GaussTrick/02GaussTrick/obj/Debug/netcoreapp2.2/02GaussTrick.dll
+/home/gigi/Projects/02GaussTrick/02GaussTrick/obj/Debug/netcoreapp2.2/02GaussTrick.pdb

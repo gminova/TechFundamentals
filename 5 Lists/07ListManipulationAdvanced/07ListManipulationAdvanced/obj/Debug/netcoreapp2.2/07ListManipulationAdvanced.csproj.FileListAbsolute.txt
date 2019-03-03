@@ -1,0 +1,11 @@
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/bin/Debug/netcoreapp2.2/07ListManipulationAdvanced.deps.json
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/bin/Debug/netcoreapp2.2/07ListManipulationAdvanced.runtimeconfig.json
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/bin/Debug/netcoreapp2.2/07ListManipulationAdvanced.runtimeconfig.dev.json
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/bin/Debug/netcoreapp2.2/07ListManipulationAdvanced.dll
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/bin/Debug/netcoreapp2.2/07ListManipulationAdvanced.pdb
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/obj/Debug/netcoreapp2.2/07ListManipulationAdvanced.csprojAssemblyReference.cache
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/obj/Debug/netcoreapp2.2/07ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/obj/Debug/netcoreapp2.2/07ListManipulationAdvanced.AssemblyInfoInputs.cache
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/obj/Debug/netcoreapp2.2/07ListManipulationAdvanced.AssemblyInfo.cs
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/obj/Debug/netcoreapp2.2/07ListManipulationAdvanced.dll
+/home/gigi/Projects/07ListManipulationAdvanced/07ListManipulationAdvanced/obj/Debug/netcoreapp2.2/07ListManipulationAdvanced.pdb

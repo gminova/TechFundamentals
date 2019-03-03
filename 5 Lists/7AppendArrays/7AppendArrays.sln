@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7AppendArrays", "7AppendArrays\7AppendArrays.csproj", "{4C03D16C-D3B7-4610-9EF5-A28E2DC48C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C03D16C-D3B7-4610-9EF5-A28E2DC48C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C03D16C-D3B7-4610-9EF5-A28E2DC48C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C03D16C-D3B7-4610-9EF5-A28E2DC48C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C03D16C-D3B7-4610-9EF5-A28E2DC48C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

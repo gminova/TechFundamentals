@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{26A14D7A-B8F7-4233-8F7B-6D7CEEAD8B39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="05RemoveNegativesAndReverse/Program.cs">
+    <Files>
+      <File FileName="05RemoveNegativesAndReverse/Program.cs" Line="30" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05RemoveNegativesAndReverse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/bin/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.deps.json
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/bin/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.runtimeconfig.json
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/bin/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.runtimeconfig.dev.json
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/bin/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.dll
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/bin/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.pdb
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/obj/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.csprojAssemblyReference.cache
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/obj/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/obj/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/obj/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.AssemblyInfo.cs
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/obj/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.dll
+/home/gigi/Projects/05RemoveNegativesAndReverse/05RemoveNegativesAndReverse/obj/Debug/netcoreapp2.2/05RemoveNegativesAndReverse.pdb

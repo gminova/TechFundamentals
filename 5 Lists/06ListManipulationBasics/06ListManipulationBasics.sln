@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06ListManipulationBasics", "06ListManipulationBasics\06ListManipulationBasics.csproj", "{7873B677-D10F-4455-92FA-BE74B7159ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7873B677-D10F-4455-92FA-BE74B7159ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7873B677-D10F-4455-92FA-BE74B7159ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7873B677-D10F-4455-92FA-BE74B7159ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7873B677-D10F-4455-92FA-BE74B7159ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4C03D16C-D3B7-4610-9EF5-A28E2DC48C69}|Default">
+  <MonoDevelop.Ide.ItemProperties.7AppendArrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="7AppendArrays/Program.cs">
+    <Files>
+      <File FileName="7AppendArrays/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

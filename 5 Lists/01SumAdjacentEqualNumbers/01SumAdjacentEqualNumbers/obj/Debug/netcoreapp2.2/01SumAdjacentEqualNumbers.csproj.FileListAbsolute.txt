@@ -1,0 +1,11 @@
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/bin/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.deps.json
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/bin/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.runtimeconfig.json
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/bin/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.runtimeconfig.dev.json
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/bin/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.dll
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/bin/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.pdb
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/obj/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/obj/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/obj/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/obj/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.AssemblyInfo.cs
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/obj/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.dll
+/home/gigi/Projects/01SumAdjacentEqualNumbers/01SumAdjacentEqualNumbers/obj/Debug/netcoreapp2.2/01SumAdjacentEqualNumbers.pdb

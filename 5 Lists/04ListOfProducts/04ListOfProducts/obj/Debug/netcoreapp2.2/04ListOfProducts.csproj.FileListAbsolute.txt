@@ -1,0 +1,11 @@
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/bin/Debug/netcoreapp2.2/04ListOfProducts.deps.json
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/bin/Debug/netcoreapp2.2/04ListOfProducts.runtimeconfig.json
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/bin/Debug/netcoreapp2.2/04ListOfProducts.runtimeconfig.dev.json
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/bin/Debug/netcoreapp2.2/04ListOfProducts.dll
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/bin/Debug/netcoreapp2.2/04ListOfProducts.pdb
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/obj/Debug/netcoreapp2.2/04ListOfProducts.csprojAssemblyReference.cache
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/obj/Debug/netcoreapp2.2/04ListOfProducts.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/obj/Debug/netcoreapp2.2/04ListOfProducts.AssemblyInfoInputs.cache
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/obj/Debug/netcoreapp2.2/04ListOfProducts.AssemblyInfo.cs
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/obj/Debug/netcoreapp2.2/04ListOfProducts.dll
+/home/gigi/Projects/04ListOfProducts/04ListOfProducts/obj/Debug/netcoreapp2.2/04ListOfProducts.pdb

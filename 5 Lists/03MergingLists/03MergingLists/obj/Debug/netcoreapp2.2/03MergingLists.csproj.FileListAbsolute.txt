@@ -1,0 +1,11 @@
+/home/gigi/Projects/03MergingLists/03MergingLists/obj/Debug/netcoreapp2.2/03MergingLists.csprojAssemblyReference.cache
+/home/gigi/Projects/03MergingLists/03MergingLists/obj/Debug/netcoreapp2.2/03MergingLists.csproj.CoreCompileInputs.cache
+/home/gigi/Projects/03MergingLists/03MergingLists/obj/Debug/netcoreapp2.2/03MergingLists.AssemblyInfoInputs.cache
+/home/gigi/Projects/03MergingLists/03MergingLists/obj/Debug/netcoreapp2.2/03MergingLists.AssemblyInfo.cs
+/home/gigi/Projects/03MergingLists/03MergingLists/bin/Debug/netcoreapp2.2/03MergingLists.deps.json
+/home/gigi/Projects/03MergingLists/03MergingLists/bin/Debug/netcoreapp2.2/03MergingLists.runtimeconfig.json
+/home/gigi/Projects/03MergingLists/03MergingLists/bin/Debug/netcoreapp2.2/03MergingLists.runtimeconfig.dev.json
+/home/gigi/Projects/03MergingLists/03MergingLists/bin/Debug/netcoreapp2.2/03MergingLists.dll
+/home/gigi/Projects/03MergingLists/03MergingLists/bin/Debug/netcoreapp2.2/03MergingLists.pdb
+/home/gigi/Projects/03MergingLists/03MergingLists/obj/Debug/netcoreapp2.2/03MergingLists.dll
+/home/gigi/Projects/03MergingLists/03MergingLists/obj/Debug/netcoreapp2.2/03MergingLists.pdb

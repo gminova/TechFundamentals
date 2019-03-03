@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DEA9C9AE-3907-4238-8069-5FC23A478C52}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="8AnonymusThreat/Program.cs">
+    <Files>
+      <File FileName="8AnonymusThreat/Program.cs" Line="54" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.8AnonymusThreat FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
